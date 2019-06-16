@@ -8,7 +8,7 @@ To propose a talk, simply create a github issue.
     * [Slides](https://drive.google.com/file/d/1Q-3DqXS1bOs45dzSWCRmX8QIXlgviyK4/view?usp=sharing)
     
 * [Vikas Kumar](https://www.linkedin.com/in/vikashiitkgp/): **Introduction to Kaggle NLP Challenges** 
-    * [Slides](https://drive.google.com/file/d/1SByeDfNmN55cQxe2RqCsFOQIEYbC8QNu/view?usp=sharing)
+    * [Slides](https://drive.google.com/file/d/1kS8nHwCuILQoqo9Z3DzHtrsx3uxuvsiy/view?usp=sharing)
 
 * [Ayon Roy](https://www.linkedin.com/in/ayonroy2000/): **Opening Talk for India's First Kaggle Days Meetup** 
     * [Slides](https://drive.google.com/file/d/1GHfpfYWviBbq6TPV5Er3Gga-8V9T14GN/view?usp=sharing)
