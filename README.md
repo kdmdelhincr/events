@@ -20,7 +20,9 @@ To propose a talk, simply create a github issue.
 
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/): **Introduction to Computer Vision** 
     * [Slides](https://docs.google.com/presentation/d/1bdsY-dn1yu8qJEf1r30g_Ri6tNg7TEXXuA6eHUCE2d0/edit?usp=sharing)
-
+    * [Jupyter Notebook](https://github.com/kaggledelhi/talks/blob/master/KaggleDays_TOKOPEDIA_MeetupDEMO.ipynb)
+    * [Model Deployment Code](https://github.com/kaggledelhi/talks/blob/master/app_classify.py)
+     
 * [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/): **More into Computer Vision** 
     * [Talk Recording](https://drive.google.com/open?id=1IoF5LIovVjoP9biahTLT8aG56vYPG2Vg)
     
