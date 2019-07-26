@@ -22,5 +22,5 @@ To propose a talk, simply create a github issue.
     * [Slides]()
 
 * [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/): **More into Computer Vision** 
-    * [Talk Recording]()
+    * [Talk Recording](https://drive.google.com/open?id=1IoF5LIovVjoP9biahTLT8aG56vYPG2Vg)
     
