@@ -16,10 +16,10 @@ To propose a talk, simply create a github issue.
 ## 27-07-2019 ( India's Second Kaggle Days Meetup @ Tokopedia, Noida)
     
 * [Aquib Javed](https://www.linkedin.com/in/aquib-javed-khan/): **Hands on Session on Natural Language Processing** 
-    * [Slides]()
+    * [Slides](https://docs.google.com/presentation/d/1ck3ceFARzlcydDysXtcRQCZJZq8zFIxEKGX4XNfAQfk/edit?usp=sharing)
 
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/): **Introduction to Computer Vision** 
-    * [Slides]()
+    * [Slides](https://docs.google.com/presentation/d/1bdsY-dn1yu8qJEf1r30g_Ri6tNg7TEXXuA6eHUCE2d0/edit?usp=sharing)
 
 * [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/): **More into Computer Vision** 
     * [Talk Recording](https://drive.google.com/open?id=1IoF5LIovVjoP9biahTLT8aG56vYPG2Vg)
