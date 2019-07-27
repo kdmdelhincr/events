@@ -17,7 +17,8 @@ To propose a talk, simply create a github issue.
     
 * [Aquib Javed](https://www.linkedin.com/in/aquib-javed-khan/): **Hands on Session on Natural Language Processing** 
     * [Slides](https://docs.google.com/presentation/d/1ck3ceFARzlcydDysXtcRQCZJZq8zFIxEKGX4XNfAQfk/edit?usp=sharing)
-
+    * [Code](https://github.com/aquibjaved/Deep-learning-for-text-classification)
+    
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/): **Introduction to Computer Vision** 
     * [Slides](https://docs.google.com/presentation/d/1bdsY-dn1yu8qJEf1r30g_Ri6tNg7TEXXuA6eHUCE2d0/edit?usp=sharing)
     * [Jupyter Notebook](https://github.com/kaggledelhi/talks/blob/master/KaggleDays_TOKOPEDIA_MeetupDEMO.ipynb)
