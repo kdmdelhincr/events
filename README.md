@@ -1,6 +1,6 @@
  # Talks of Kaggle Days Meetup Delhi NCR
  
-To propose a talk, simply create a github issue.
+To propose a talk, simply create a github issue with the topic of the topic and include other details like Name, Estimated Date, Duration, Type of Audience ( Beginner / Advanced ).
 
 ## 15-06-2019 ( India's First Kaggle Days Meetup @ Grofers, Gurgaon)
     
