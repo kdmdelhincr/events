@@ -27,3 +27,17 @@ To propose a talk, simply create a github issue with the topic of the topic and 
 * [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/): **More into Computer Vision** 
     * [Talk Recording](https://drive.google.com/open?id=1IoF5LIovVjoP9biahTLT8aG56vYPG2Vg)
     
+## 12-10-2019 ( Delhi NCR's Third Kaggle Days Meetup @ Atlan Headquarters, Delhi)
+    
+    
+* [Ankit Rathi](https://www.linkedin.com/in/ankitrathi/): **Kaggle Vs Real World Projects** 
+    * [Slides](https://drive.google.com/open?id=158-hvmKzQsJVHyM0fsNLcAjEwSqLF-2SGixsSDPTbPk)
+     
+* [Michal Bugaj](https://www.linkedin.com/in/micha%C5%82-bugaj/): **More into NLP, CV, Kaggle Competitions** 
+    * [Talk Recording](https://drive.google.com/open?id=1lp9u27VhVTRdFadlfl0ZwmhVRX_Uanr8)
+    * [Slides](https://drive.google.com/open?id=1ZAjechXvB4Y6jtbQXFX5uP6H8yu42he2e37dv19PB9w)
+
+
+* [Praneet Nigam](https://www.linkedin.com/in/praneet460/): **Hands on Session on Computer Vision** 
+    * [Slides - To be Updated Soon]()
+    * [Code - To be Updated Soon]()
