@@ -29,7 +29,6 @@ To propose a talk, simply create a github issue with the topic of the topic and 
     
 ## 12-10-2019 ( Delhi NCR's Third Kaggle Days Meetup @ Atlan Headquarters, Delhi)
     
-    
 * [Ankit Rathi](https://www.linkedin.com/in/ankitrathi/): **Kaggle Vs Real World Projects** 
     * [Slides](https://drive.google.com/open?id=158-hvmKzQsJVHyM0fsNLcAjEwSqLF-2SGixsSDPTbPk)
      
@@ -40,4 +39,4 @@ To propose a talk, simply create a github issue with the topic of the topic and 
 
 * [Praneet Nigam](https://www.linkedin.com/in/praneet460/): **Hands on Session on Computer Vision** 
     * [Slides - To be Updated Soon]()
-    * [Code - To be Updated Soon]()
+    * [Code](https://github.com/Praneet460/Kaggle_Days_OpenCV)
