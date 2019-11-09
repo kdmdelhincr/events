@@ -37,7 +37,7 @@ To propose a talk, simply create a github issue with the topic of the topic and 
     * [Slides](https://drive.google.com/open?id=1ZAjechXvB4Y6jtbQXFX5uP6H8yu42he2e37dv19PB9w)
 
 * [Praneet Nigam](https://www.linkedin.com/in/praneet460/): **Hands on Session on Computer Vision** 
-    * [Slides - To be Updated Soon]()
+    * [Slides](https://drive.google.com/open?id=1i_wJQJrkq9ZwMLPusdK7wvZwvP5EhR7v)
     * [Code](https://github.com/Praneet460/Kaggle_Days_OpenCV)
 
 ## 9-11-2019 ( Delhi NCR's Fourth Kaggle Days Meetup @ Internshala Headquarters, Gurgaon)
