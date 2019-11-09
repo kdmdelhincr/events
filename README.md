@@ -36,7 +36,26 @@ To propose a talk, simply create a github issue with the topic of the topic and 
     * [Talk Recording](https://drive.google.com/open?id=1lp9u27VhVTRdFadlfl0ZwmhVRX_Uanr8)
     * [Slides](https://drive.google.com/open?id=1ZAjechXvB4Y6jtbQXFX5uP6H8yu42he2e37dv19PB9w)
 
-
 * [Praneet Nigam](https://www.linkedin.com/in/praneet460/): **Hands on Session on Computer Vision** 
     * [Slides - To be Updated Soon]()
     * [Code](https://github.com/Praneet460/Kaggle_Days_OpenCV)
+
+## 9-11-2019 ( Delhi NCR's Fourth Kaggle Days Meetup @ Internshala Headquarters, Gurgaon)
+    
+* [Siddharth Yadav](https://www.linkedin.com/in/siddharth-yadav-20/): **HyperParameter Optimization & Stacking on a Kaggle Competition** 
+    * [Slides](https://drive.google.com/open?id=1fCvR-oIktJh9O66t71QO-pDQMSa1gpvN)
+    * [Code]( https://github.com/TheBrownViking20/Kaggle_Days_DelhiNCR)
+     
+* [Mayank Kumar Jha](https://www.linkedin.com/in/mk9440): **Baseline Modelling, Cross-Validation Process on a Kaggle Competition** 
+      * [Slides](https://drive.google.com/open?id=1ZuSGV6vH3KDpcUrrsJB_FZ4Nu5JHptwM)
+      * [Code](https://github.com/mk9440/ASHRAE-Great-Energy-Predictor-III)
+
+* [Ishaan Jain](https://www.linkedin.com/in/ishaanjain45/): **Feature Engineering for a Kaggle Competition** 
+    * [Slides](https://drive.google.com/open?id=1uGUiRUpjdDzRas4X7apJQCTOHTKmtsaf)
+    * [Code : To be Updated Soon]()
+    
+* [Yatin Bhatia](https://www.linkedin.com/in/yatin-bhatia-241a996/): **My DS Story, AI in Pharma Domain, Transfer Learning in NLP, Model Interpretability** 
+    * [Slides](https://drive.google.com/open?id=11wlyoG5o_Mruc8q_M9-BNGgciF1Vk2pj)
+
+   
+
