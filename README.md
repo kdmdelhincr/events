@@ -1,6 +1,6 @@
  # Talks of Kaggle Days Meetup Delhi NCR
  
-To propose a talk, simply create a github issue with the topic of the topic and include other details like Name, Estimated Date, Duration, Type of Audience ( Beginner / Advanced ).
+To propose a talk, simply fill the form at https://docs.google.com/forms/d/e/1FAIpQLSeN2qC26qq7BkBMhWz6lbr3_p5t0tHgJkdXffcMJaTCKggT0w/viewform
 
 ## 15-06-2019 ( India's First Kaggle Days Meetup @ Grofers, Gurgaon)
     
@@ -10,8 +10,8 @@ To propose a talk, simply create a github issue with the topic of the topic and 
 * [Vikas Kumar](https://www.linkedin.com/in/vikashiitkgp/): **Introduction to Kaggle NLP Challenges** 
     * [Slides](https://drive.google.com/file/d/1kS8nHwCuILQoqo9Z3DzHtrsx3uxuvsiy/view?usp=sharing)
 
-* [Ayon Roy](https://www.linkedin.com/in/ayonroy2000/): **Opening Talk for India's First Kaggle Days Meetup** 
-    * [Slides](https://drive.google.com/file/d/1GHfpfYWviBbq6TPV5Er3Gga-8V9T14GN/view?usp=sharing)
+* [Maria Parysz](https://www.linkedin.com/in/mariaparysz/): **Welcome Note for India's First Kaggle Days Meetup** 
+    * [Talk Recording](https://drive.google.com/open?id=14kp70STkabaRDQvPUZGzrz0Hl6CcVfjX)
 
 ## 27-07-2019 ( India's Second Kaggle Days Meetup @ Tokopedia, Noida)
     
@@ -52,10 +52,21 @@ To propose a talk, simply create a github issue with the topic of the topic and 
 
 * [Ishaan Jain](https://www.linkedin.com/in/ishaanjain45/): **Feature Engineering for a Kaggle Competition** 
     * [Slides](https://drive.google.com/open?id=1uGUiRUpjdDzRas4X7apJQCTOHTKmtsaf)
-    * [Code : To be Updated Soon]()
-    
+        
 * [Yatin Bhatia](https://www.linkedin.com/in/yatin-bhatia-241a996/): **My DS Story, AI in Pharma Domain, Transfer Learning in NLP, Model Interpretability** 
     * [Slides](https://drive.google.com/open?id=11wlyoG5o_Mruc8q_M9-BNGgciF1Vk2pj)
+
+## 28-12-2019 ( Delhi NCR's Fifth Kaggle Days Meetup @ Innovaccer, Noida )
+    
+* [Aakash Goel](https://www.linkedin.com/in/aakash-goel-587a7385/): **Semantic Text Similarity and Different Embeddings to find Similarity** 
+    * [Slides - To be Updated]()
+    
+* [Nishant Chhetri](https://www.linkedin.com/in/nishant-chhetri-a179b7119/): **NLP from Attention's Perspective** 
+    * [Slides - To be Updated]()
+
+* [Mohamed Ramzy](https://www.linkedin.com/in/mohamed-ramzy-296727125/): **Intro to CNNs with Digit Recognizer Challenge** 
+    * [Talk Recording](https://drive.google.com/open?id=1Sp0JG-YmuSemmtOixBp9VdJVENJKFsYd)
+    * [Code](https://drive.google.com/open?id=1NOtMCxF4avKmyXibaAHHVub6_c858eyq)
 
    
 
