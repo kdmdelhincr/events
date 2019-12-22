@@ -1,6 +1,6 @@
  # Talks of Kaggle Days Meetup Delhi NCR
  
-To propose a talk, simply fill the form at https://docs.google.com/forms/d/e/1FAIpQLSeN2qC26qq7BkBMhWz6lbr3_p5t0tHgJkdXffcMJaTCKggT0w/viewform
+To propose a talk, simply fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeN2qC26qq7BkBMhWz6lbr3_p5t0tHgJkdXffcMJaTCKggT0w/viewform) form. Our team will get back to you with the best suitable Meetup Date, Time, Venue etc.
 
 ## 15-06-2019 ( India's First Kaggle Days Meetup @ Grofers, Gurgaon)
     
