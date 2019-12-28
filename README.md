@@ -59,7 +59,7 @@ To propose a talk, simply fill [this](https://docs.google.com/forms/d/e/1FAIpQLS
 ## 28-12-2019 ( Delhi NCR's Fifth Kaggle Days Meetup @ Innovaccer, Noida )
     
 * [Aakash Goel](https://www.linkedin.com/in/aakash-goel-587a7385/): **Semantic Text Similarity and Different Embeddings to find Similarity** 
-    * [Slides - To be Updated]()
+    * [Slides](https://github.com/aakashgoel12/Talks/blob/master/kaggleDays/28-12-19/talkContent.ipynb)
     
 * [Nishant Chhetri](https://www.linkedin.com/in/nishant-chhetri-a179b7119/): **NLP from Attention's Perspective** 
     * [Slides](https://drive.google.com/open?id=1ZA5tqxJBThztjnDqqbyd1g0mZ0ov3nQD)
