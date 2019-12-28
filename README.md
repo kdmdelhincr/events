@@ -62,7 +62,8 @@ To propose a talk, simply fill [this](https://docs.google.com/forms/d/e/1FAIpQLS
     * [Slides - To be Updated]()
     
 * [Nishant Chhetri](https://www.linkedin.com/in/nishant-chhetri-a179b7119/): **NLP from Attention's Perspective** 
-    * [Slides - To be Updated]()
+    * [Slides](https://drive.google.com/open?id=1ZA5tqxJBThztjnDqqbyd1g0mZ0ov3nQD)
+    * [Code](https://www.kaggle.com/nishant240/kernel69c4785e15/notebook)
 
 * [Mohamed Ramzy](https://www.linkedin.com/in/mohamed-ramzy-296727125/): **Intro to CNNs with Digit Recognizer Challenge** 
     * [Talk Recording](https://drive.google.com/open?id=1Sp0JG-YmuSemmtOixBp9VdJVENJKFsYd)
