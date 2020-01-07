@@ -26,7 +26,7 @@ Get the speaker's guide [here](https://www.cfpland.com/guides/speaking/).
     * [Code](https://drive.google.com/open?id=1NOtMCxF4avKmyXibaAHHVub6_c858eyq)  
   
   
-## 9-11-2019 ( Delhi NCR's Fourth Kaggle Days Meetup @ Internshala Headquarters, Gurgaon)
+## 9-11-2019 ( Delhi NCR's Fourth Kaggle Days Meetup @ Internshala, Gurgaon)
     
 * [Siddharth Yadav](https://www.linkedin.com/in/siddharth-yadav-20/): **HyperParameter Optimization & Stacking on a Kaggle Competition** 
     * [Slides](https://drive.google.com/open?id=1fCvR-oIktJh9O66t71QO-pDQMSa1gpvN)
@@ -43,7 +43,7 @@ Get the speaker's guide [here](https://www.cfpland.com/guides/speaking/).
     * [Slides](https://drive.google.com/open?id=11wlyoG5o_Mruc8q_M9-BNGgciF1Vk2pj)    
   
   
-## 12-10-2019 ( Delhi NCR's Third Kaggle Days Meetup @ Atlan Headquarters, Delhi)
+## 12-10-2019 ( Delhi NCR's Third Kaggle Days Meetup @ Atlan, Delhi)
     
 * [Ankit Rathi](https://www.linkedin.com/in/ankitrathi/): **Kaggle Vs Real World Projects** 
     * [Slides](https://drive.google.com/open?id=158-hvmKzQsJVHyM0fsNLcAjEwSqLF-2SGixsSDPTbPk)
