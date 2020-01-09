@@ -7,6 +7,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - http://weareallaweso.me/
 - https://speaking.io/
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
+- https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
 ## 11-01-2020 ( Delhi NCR's Sixth Kaggle Days Meetup @ Gartner, Gurgaon )
     
