@@ -1,7 +1,12 @@
  # Talks of Kaggle Days Meetup Delhi NCR
  
 To propose a talk, simply fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeN2qC26qq7BkBMhWz6lbr3_p5t0tHgJkdXffcMJaTCKggT0w/viewform) form. Our team will get back to you with the best suitable Meetup Date, Time, Venue etc.
-Get the speaker's guide [here](https://www.cfpland.com/guides/speaking/).
+
+Refer to the speaker guides below to prepare for your first technical talks :
+- https://www.cfpland.com/guides/speaking/
+- http://weareallaweso.me/
+- https://speaking.io/
+- https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 
 ## 11-01-2020 ( Delhi NCR's Sixth Kaggle Days Meetup @ Gartner, Gurgaon )
     
