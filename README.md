@@ -9,7 +9,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
-## 08-02-2020 ( Delhi NCR's Sixth Kaggle Days Meetup @ Gartner, Gurgaon )
+## 08-02-2020 ( Delhi NCR's Seventh Kaggle Days Meetup @ Tokopedia, Noida )
     
 * [Abhishek Thakur](https://www.linkedin.com/in/abhisvnit): **Topic to be added** 
     * Slides ( To be Updated ) 
