@@ -15,7 +15,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
     * Slides ( To be Updated ) 
 
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/) & [Sumit Pundir](https://www.linkedin.com/in/sumitpundir24/): **Counterfactual Machine Learning** 
-    * Slides ( To be Updated ) 
+    * [Slides](https://drive.google.com/open?id=1NSWBzK8q2CzxTRfwRITe5RWqYuNvKpUn) 
 
 ## 11-01-2020 ( Delhi NCR's Sixth Kaggle Days Meetup @ Gartner, Gurgaon )
     
