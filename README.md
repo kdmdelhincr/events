@@ -9,6 +9,14 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 14-03-2020 ( Delhi NCR's Eighth Kaggle Days Meetup @ Knoldus, Noida )
+    
+* [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/): **Application of Deep Learning in Understanding Cloud Images** 
+    * Slides ( To be Updated ) 
+
+* [Shubham Goyal](https://www.linkedin.com/in/shubham-goyal-0946b7127/): **Finding Best Solutions for Image Processing** 
+    * Slides ( To be Updated ) 
+
 ## 08-02-2020 ( Delhi NCR's Seventh Kaggle Days Meetup @ Tokopedia, Noida )
     
 * [Abhishek Thakur](https://www.linkedin.com/in/abhisvnit): **Approaching (almost) Any NLP Problem** 
