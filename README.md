@@ -20,7 +20,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 ## 08-02-2020 ( Delhi NCR's Seventh Kaggle Days Meetup @ Tokopedia, Noida )
     
 * [Abhishek Thakur](https://www.linkedin.com/in/abhisvnit): **Approaching (almost) Any NLP Problem** 
-    * Slides ( To be Updated ) 
+    * [Slides](https://www.slideshare.net/abhishekkrthakur/approaching-almost-any-nlp-problem) 
 
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/) & [Sumit Pundir](https://www.linkedin.com/in/sumitpundir24/): **Counterfactual Machine Learning** 
     * [Slides](https://drive.google.com/open?id=1NSWBzK8q2CzxTRfwRITe5RWqYuNvKpUn) 
