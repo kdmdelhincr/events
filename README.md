@@ -11,11 +11,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 
 ## 14-03-2020 ( Delhi NCR's Eighth Kaggle Days Meetup @ Online )
     
+  Slides ( To be Updated ) 
+  
 * [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/): **Application of Deep Learning in Understanding Cloud Images** 
-    * Slides ( To be Updated ) 
 
 * [Shubham Goyal](https://www.linkedin.com/in/shubham-goyal-0946b7127/): **Finding Best Solutions for Image Processing** 
-    * Slides ( To be Updated ) 
+    
+  
 
 ## 08-02-2020 ( Delhi NCR's Seventh Kaggle Days Meetup @ Tokopedia, Noida )
     
