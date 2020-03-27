@@ -14,7 +14,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Sriram Sitaraman](https://www.linkedin.com/in/sriram-sitaraman): **Topic to be declared** 
     * Slides - To be Updated
 
-* [Hitkul Jangid](https://www.linkedin.com/in/hitkuljangid): **Topic to be declared** 
+* [Hitkul Jangid](https://www.linkedin.com/in/hitkujangid): **Topic to be declared** 
     * Slides - To be Updated
     
     
