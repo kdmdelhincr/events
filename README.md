@@ -9,6 +9,15 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 25-04-2020 ( Delhi NCR's Ninth Kaggle Days Meetup @ Online )
+    
+* [Sriram Sitaraman](https://www.linkedin.com/in/sriram-sitaraman): **Topic to be declared** 
+    * Slides - To be Updated
+
+* [Hitkul Jangid](https://www.linkedin.com/in/hitkuljangid): **Topic to be declared** 
+    * Slides - To be Updated
+    
+    
 ## 14-03-2020 ( Delhi NCR's Eighth Kaggle Days Meetup @ Online )
     
 View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJdZFcfFU0qxxoTE10CFKRpHiQ5). ( View it from 12:15 minutes onwards ) 
