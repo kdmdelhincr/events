@@ -15,10 +15,10 @@ Refer to the speaker guides below to prepare for your first technical talks :
     * Lightning Talk ( So no slides )
 
 * [Sriram Sitaraman](https://www.linkedin.com/in/sriram-sitaraman): **MLOps Intro - Managing & Automating ML pipelines to bring data science into real business applications** 
-    * Slides - To be Updated
+    * [Slides](https://drive.google.com/open?id=1FPyfP2298ZCHNLATw4tUntap0soAbkzT)
 
 * [Hitkul Jangid](https://www.linkedin.com/in/hitkujangid): **A checklist for building Neural Networks** 
-    * Slides - To be Updated
+    * [Slides](https://drive.google.com/open?id=1lGHobCL78hda6z08z-i6MmYzAPPBhuLH)
     
     
 ## 14-03-2020 ( Delhi NCR's Eighth Kaggle Days Meetup @ Online )
