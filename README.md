@@ -10,8 +10,11 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
 ## 25-04-2020 ( Delhi NCR's Ninth Kaggle Days Meetup @ Online )
-    
-* [Sriram Sitaraman](https://www.linkedin.com/in/sriram-sitaraman): **Topic to be declared** 
+
+* [Tanul Singh](https://www.linkedin.com/in/tanul-singh-378a7415a/): **: Journey to become a Kaggle Notebook Expert** 
+    * Lightning Talk ( So no slides )
+
+* [Sriram Sitaraman](https://www.linkedin.com/in/sriram-sitaraman): **MLOps Intro - Managing & Automating ML pipelines to bring data science into real business applications** 
     * Slides - To be Updated
 
 * [Hitkul Jangid](https://www.linkedin.com/in/hitkujangid): **A checklist for building Neural Networks** 
