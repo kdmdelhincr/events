@@ -70,7 +70,7 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
     * [Code]( https://github.com/TheBrownViking20/Kaggle_Days_DelhiNCR)
      
 * [Mayank Kumar Jha](https://www.linkedin.com/in/mk9440): **Baseline Modelling, Cross-Validation Process on a Kaggle Competition** 
-    * [Slides](https://drive.google.com/open?id=1ZuSGV6vH3KDpcUrrsJB_FZ4Nu5JHptwM)
+    * [Slides](https://drive.google.com/open?id=1uyw1qOfWp8XFt5fPpReCypRuDDmMxcL3)
     * [Code](https://github.com/mk9440/ASHRAE-Great-Energy-Predictor-III)
 
 * [Ishaan Jain](https://www.linkedin.com/in/ishaanjain45/): **Feature Engineering for a Kaggle Competition** 
