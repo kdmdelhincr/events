@@ -9,6 +9,15 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 16-05-2020 ( Delhi NCR's Tenth Kaggle Days Meetup @ Online )
+
+* [Rohan Dhupar](https://www.linkedin.com/in/rohan-dhupar/): **Tensorflow for faster production over Keras** 
+    * [Basic Resource](https://www.kaggle.com/rohandx1996/tensorflow-basics-and-fundamentals)
+    * Slides ( To be Updated )
+
+* [F. Firat Gonen](https://www.linkedin.com/in/ffgonen/): **Discussing Industrial Data Science & Big Data** 
+    * Slides ( To be Updated )
+
 ## 25-04-2020 ( Delhi NCR's Ninth Kaggle Days Meetup @ Online )
 
 * [Tanul Singh](https://www.linkedin.com/in/tanul-singh-378a7415a/): **: Journey to become a Kaggle Notebook Expert** 
@@ -66,7 +75,7 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
 ## 9-11-2019 ( Delhi NCR's Fourth Kaggle Days Meetup @ Internshala, Gurgaon)
     
 * [Siddharth Yadav](https://www.linkedin.com/in/siddharth-yadav-20/): **HyperParameter Optimization & Stacking on a Kaggle Competition** 
-    * [Slides](https://drive.google.com/open?id=1fCvR-oIktJh9O66t71QO-pDQMSa1gpvN)
+    * [Slides](https://drive.google.com/open?id=1OeedEBPQd2lhVs0DKMiUj-jv5JN5YOHr)
     * [Code]( https://github.com/TheBrownViking20/Kaggle_Days_DelhiNCR)
      
 * [Mayank Kumar Jha](https://www.linkedin.com/in/mk9440): **Baseline Modelling, Cross-Validation Process on a Kaggle Competition** 
@@ -74,34 +83,33 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
     * [Code](https://github.com/mk9440/ASHRAE-Great-Energy-Predictor-III)
 
 * [Ishaan Jain](https://www.linkedin.com/in/ishaanjain45/): **Feature Engineering for a Kaggle Competition** 
-    * [Slides](https://drive.google.com/open?id=1uGUiRUpjdDzRas4X7apJQCTOHTKmtsaf)
+    * [Slides](https://drive.google.com/open?id=1NScc4YINmn6pFZE0gfcTa1kreo1XwB79)
         
 * [Yatin Bhatia](https://www.linkedin.com/in/yatin-bhatia-241a996/): **My DS Story, AI in Pharma Domain, Transfer Learning in NLP, Model Interpretability** 
-    * [Slides](https://drive.google.com/open?id=11wlyoG5o_Mruc8q_M9-BNGgciF1Vk2pj)    
+    * [Slides](https://drive.google.com/open?id=1LLQJbCYfWhoVo08lZ_Jyx6nOGqJ6UoqS)    
   
   
 ## 12-10-2019 ( Delhi NCR's Third Kaggle Days Meetup @ Atlan, Delhi)
     
 * [Ankit Rathi](https://www.linkedin.com/in/ankitrathi/): **Kaggle Vs Real World Projects** 
-    * [Slides](https://drive.google.com/open?id=158-hvmKzQsJVHyM0fsNLcAjEwSqLF-2SGixsSDPTbPk)
+    * [Slides](https://drive.google.com/open?id=1bXGO5fhKWdlOCToWRiqkY76GYpgHp8K9)
      
 * [Michal Bugaj](https://www.linkedin.com/in/micha%C5%82-bugaj/): **More into NLP, CV, Kaggle Competitions** 
     * [Talk Recording](https://drive.google.com/open?id=1lp9u27VhVTRdFadlfl0ZwmhVRX_Uanr8)
-    * [Slides](https://drive.google.com/open?id=1ZAjechXvB4Y6jtbQXFX5uP6H8yu42he2e37dv19PB9w)
+    * [Slides](https://drive.google.com/open?id=1BdhSg_qvTj1iMOF8ZIRQF8LzrD3yTEmv)
 
 * [Praneet Nigam](https://www.linkedin.com/in/praneet460/): **Hands on Session on Computer Vision** 
-    * [Slides](https://drive.google.com/open?id=1i_wJQJrkq9ZwMLPusdK7wvZwvP5EhR7v)
+    * [Slides](https://drive.google.com/open?id=1C_fiuHOBTcGf3WOLg-24Jr6MBOsLTup3)
     * [Code](https://github.com/Praneet460/Kaggle_Days_OpenCV)
     
     
 ## 27-07-2019 ( India's Second Kaggle Days Meetup @ Tokopedia, Noida)
     
 * [Aquib Javed](https://www.linkedin.com/in/aquib-javed-khan/): **Hands on Session on Natural Language Processing** 
-    * [Slides](https://docs.google.com/presentation/d/1ck3ceFARzlcydDysXtcRQCZJZq8zFIxEKGX4XNfAQfk/edit?usp=sharing)
+    * [Slides](https://drive.google.com/file/d/1Hw4zONphUeom_zVWVE8P71o9ujmHXCJO/view?usp=sharing)
     * [Code](https://github.com/aquibjaved/Deep-learning-for-text-classification)
     
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/): **Introduction to Computer Vision** 
-    * [Slides](https://docs.google.com/presentation/d/1bdsY-dn1yu8qJEf1r30g_Ri6tNg7TEXXuA6eHUCE2d0/edit?usp=sharing)
     * [Jupyter Notebook](https://github.com/kaggledelhi/talks/blob/master/KaggleDays_TOKOPEDIA_MeetupDEMO.ipynb)
     * [Model Deployment Code](https://github.com/kaggledelhi/talks/blob/master/app_classify.py)
      
@@ -112,10 +120,10 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
 ## 15-06-2019 ( India's First Kaggle Days Meetup @ Grofers, Gurgaon)
     
 * [Akarsh Raj](https://www.linkedin.com/in/akarshrajsingh/): **Introduction To Kaggle & Kaggle Competitions** 
-    * [Slides](https://drive.google.com/file/d/1Q-3DqXS1bOs45dzSWCRmX8QIXlgviyK4/view?usp=sharing)
+    * [Slides](https://drive.google.com/open?id=1wqc5yaM2iEnVKLppauoqAfxQZJRvQ43j)
     
 * [Vikas Kumar](https://www.linkedin.com/in/vikashiitkgp/): **Introduction to Kaggle NLP Challenges** 
-    * [Slides](https://drive.google.com/file/d/1kS8nHwCuILQoqo9Z3DzHtrsx3uxuvsiy/view?usp=sharing)
+    * [Slides](https://drive.google.com/open?id=1nuBc3xE1NceOw5VczEKiGQv34W1EWRYi)
 
 * [Maria Parysz](https://www.linkedin.com/in/mariaparysz/): **Welcome Note for India's First Kaggle Days Meetup** 
     * [Talk Recording](https://drive.google.com/open?id=14kp70STkabaRDQvPUZGzrz0Hl6CcVfjX)
