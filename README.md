@@ -16,7 +16,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
     * [Resource 2](https://www.kaggle.com/rohandx1996/super-efficient-training-with-tf-data-engg-in-tf)
 
 * [F. Firat Gonen](https://www.linkedin.com/in/ffgonen/): **Discussing Industrial Data Science & Big Data** 
-    * Slides ( To be Updated )
+    * [Slides](https://drive.google.com/open?id=1gr3Cco2ApQ_3pv4zU06y2FAuPBpDW-GB)
 
 ## 25-04-2020 ( Delhi NCR's Ninth Kaggle Days Meetup @ Online )
 
