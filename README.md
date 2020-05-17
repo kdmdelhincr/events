@@ -11,6 +11,8 @@ Refer to the speaker guides below to prepare for your first technical talks :
 
 ## 16-05-2020 ( Delhi NCR's Tenth Kaggle Days Meetup @ Online )
 
+View the Meetup Recording [here](https://drive.google.com/drive/folders/12zfPAG_9f84n2lzGS3jwhMNc5e96t79d)
+
 * [Rohan Dhupar](https://www.linkedin.com/in/rohan-dhupar/): **Tensorflow for faster production over Keras** 
     * [Resource 1](https://www.kaggle.com/rohandx1996/tensorflow-basics-and-fundamentals)
     * [Resource 2](https://www.kaggle.com/rohandx1996/super-efficient-training-with-tf-data-engg-in-tf)
