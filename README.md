@@ -2,6 +2,12 @@
  
 To propose a talk, simply fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeN2qC26qq7BkBMhWz6lbr3_p5t0tHgJkdXffcMJaTCKggT0w/viewform) form. Our team will get back to you with the best suitable Meetup Date, Time, Venue etc.
 
+## How are the speakers for Kaggle Days Meetup Delhi NCR selected ?
+
+We do look into all the applications received via the Form link mentioned above. 
+
+All the Speaker Interest Applications are being scrutinized by the *Kaggle Team + Kaggle Days Team + Our Previous Speakers ( Including Kaggle Grandmasters, Kaggle Experts, Kaggle Masters, AVPs/Directors of Data Science + Ayon Roy ( Organizer @ KDM Delhi NCR )* before we finalize a speaker for the Meetups. 
+
 Refer to the speaker guides below to prepare for your first technical talks :
 - https://www.cfpland.com/guides/speaking/
 - http://weareallaweso.me/
