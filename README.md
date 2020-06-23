@@ -1,4 +1,4 @@
- # Talks of Kaggle Days Meetup Delhi NCR
+# Talks of Meetups conducted by Kaggle Days Meetup Delhi NCR
  
 To propose a talk, simply fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeN2qC26qq7BkBMhWz6lbr3_p5t0tHgJkdXffcMJaTCKggT0w/viewform) form. Our team will get back to you with the best suitable Meetup Date, Time, Venue etc.
 
@@ -14,6 +14,26 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://speaking.io/
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
+
+## Every Saturday of June 2020 ( Kaggle Days Meetup Delhi NCR's First Anniversary Celebrations @ Online )
+
+1st Anniversary Meetup #4 on **27-6-2020**. View the Meetup Recording [here](https://www.youtube.com/watch?v=9fgJ-ElsCVM)
+* [Abhishek Thakur](https://www.linkedin.com/in/abhi1thakur/)
+* [Ankit Rathi](https://www.linkedin.com/in/ankitrathi/)
+
+1st Anniversary Meetup #3 on **20-6-2020**. View the Meetup Recording [here](https://www.youtube.com/watch?v=jZt2rdwWXog)
+* [Siddharth Yadav](https://www.linkedin.com/in/siddharth-yadav-20/)
+* [Mayank Kumar Jha](https://www.linkedin.com/in/mk9440)
+
+1st Anniversary Meetup #2 on **13-6-2020**
+* [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/)
+* [Ishaan Jain](https://www.linkedin.com/in/ishaanjain45/)
+* [Shubham Goyal](https://www.linkedin.com/in/shubham-goyal-0946b7127/)
+
+1st Anniversary Meetup #1 on **6-6-2020**
+* [Akarsh Raj](https://www.linkedin.com/in/akarshrajsingh/)
+* [Vikas Kumar](https://www.linkedin.com/in/vikashiitkgp/)
+
 
 ## 16-05-2020 ( Delhi NCR's Tenth Kaggle Days Meetup @ Online )
 
@@ -51,7 +71,7 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
 
 ## 08-02-2020 ( Delhi NCR's Seventh Kaggle Days Meetup @ Tokopedia, Noida )
     
-* [Abhishek Thakur](https://www.linkedin.com/in/abhisvnit): **Approaching (almost) Any NLP Problem** 
+* [Abhishek Thakur](https://www.linkedin.com/in/abhi1thakur/): **Approaching (almost) Any NLP Problem** 
     * [Slides](https://www.slideshare.net/abhishekkrthakur/approaching-almost-any-nlp-problem) 
 
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/) & [Sumit Pundir](https://www.linkedin.com/in/sumitpundir24/): **Counterfactual Machine Learning** 
