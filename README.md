@@ -27,7 +27,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 
 1st Anniversary Meetup #2 on **13-6-2020**
 * [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/)
-* [Ishaan Jain](https://www.linkedin.com/in/ishaanjain45/)
+* [Ishaan Jain](https://www.linkedin.com/in/ishanjain4/)
 * [Shubham Goyal](https://www.linkedin.com/in/shubham-goyal-0946b7127/)
 
 1st Anniversary Meetup #1 on **6-6-2020**
@@ -110,7 +110,7 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
     * [Slides](https://drive.google.com/open?id=1uyw1qOfWp8XFt5fPpReCypRuDDmMxcL3)
     * [Code](https://github.com/mk9440/ASHRAE-Great-Energy-Predictor-III)
 
-* [Ishaan Jain](https://www.linkedin.com/in/ishaanjain45/): **Feature Engineering for a Kaggle Competition** 
+* [Ishaan Jain](https://www.linkedin.com/in/ishaanjain4/): **Feature Engineering for a Kaggle Competition** 
     * [Slides](https://drive.google.com/open?id=1NScc4YINmn6pFZE0gfcTa1kreo1XwB79)
         
 * [Yatin Bhatia](https://www.linkedin.com/in/yatin-bhatia-241a996/): **My DS Story, AI in Pharma Domain, Transfer Learning in NLP, Model Interpretability** 
