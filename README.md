@@ -15,7 +15,15 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
-## Every Saturday of June 2020 ( Kaggle Days Meetup Delhi NCR's First Anniversary Celebrations @ Online )
+## 11-07-2020 ( Delhi NCR's Twelfth Kaggle Days Meetup @ Online )
+
+* [Tarun Paparaju](https://www.linkedin.com/in/tarun-paparaju-734073190/): **Mathematical foundations of Neural Networks** 
+    *  [Slides] ( Speaker Content will be updated )
+    
+* [Tanul Singh](https://www.linkedin.com/in/tanul-singh/): **Introduction to Transformers** 
+    *  [Slides] ( Speaker Content will be updated )
+
+## Every Saturday of June 2020 ( Kaggle Days Meetup Delhi NCR's First Anniversary Celebrations & Eleventh Meetup [Series] @ Online )
 
 1st Anniversary Meetup #4 on **27-6-2020**. View the Meetup Recording [here](https://www.youtube.com/watch?v=9fgJ-ElsCVM)
 * [Abhishek Thakur](https://www.linkedin.com/in/abhi1thakur/)
