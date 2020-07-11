@@ -18,7 +18,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 ## 11-07-2020 ( Delhi NCR's Twelfth Kaggle Days Meetup @ Online )
 
 * [Tarun Paparaju](https://www.linkedin.com/in/tarun-paparaju-734073190/): **Mathematical foundations of Neural Networks** 
-    *  [Slides] ( Speaker Content will be updated )
+    *  [Slides](https://drive.google.com/file/d/1ZkrPbg7hEpGC3aBi8DN-lsZwqvMbhlmh/view?usp=sharing)
     
 * [Tanul Singh](https://www.linkedin.com/in/tanul-singh/): **Introduction to Transformers** 
     *  [Slides] ( Speaker Content will be updated )
