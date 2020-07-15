@@ -21,7 +21,8 @@ Refer to the speaker guides below to prepare for your first technical talks :
     *  [Slides](https://drive.google.com/file/d/1ZkrPbg7hEpGC3aBi8DN-lsZwqvMbhlmh/view?usp=sharing)
     
 * [Tanul Singh](https://www.linkedin.com/in/tanul-singh/): **Introduction to Transformers** 
-    *  [Slides] ( Speaker Content will be updated )
+    *  [Slides](https://drive.google.com/file/d/16MkiiiOWvjhHy76zj_Sh2lfqsiEBjUSK/view?usp=sharing)
+     * [Blog](http://jalammar.github.io/illustrated-transformer/)
 
 ## Every Saturday of June 2020 ( Kaggle Days Meetup Delhi NCR's First Anniversary Celebrations & Eleventh Meetup [Series] @ Online )
 
