@@ -15,6 +15,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 08-08-2020 ( Delhi NCR's Thirteenth Kaggle Days Meetup @ Online )
+
+* [Rajesh Shreedhar Bhat](https://www.linkedin.com/in/rajeshshreedhar/): **Self-supervised Visual Feature Learning with Deep Neural Networks** 
+    *  [Slides] ( To be Updated)
+    
+    
 ## 11-07-2020 ( Delhi NCR's Twelfth Kaggle Days Meetup @ Online )
 
 * [Tarun Paparaju](https://www.linkedin.com/in/tarun-paparaju-734073190/): **Mathematical foundations of Neural Networks** 
