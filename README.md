@@ -18,7 +18,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 ## 08-08-2020 ( Delhi NCR's Thirteenth Kaggle Days Meetup @ Online )
 
 * [Rajesh Shreedhar Bhat](https://www.linkedin.com/in/rajeshshreedhar/): **Self-supervised Visual Feature Learning with Deep Neural Networks** 
-    *  [Slides] ( To be Updated)
+    *  [Slides](https://drive.google.com/file/d/1IXOaYLI1foNWZNwNydsa2QK8YpsQjjfv/view?usp=sharing)
     
     
 ## 11-07-2020 ( Delhi NCR's Twelfth Kaggle Days Meetup @ Online )
