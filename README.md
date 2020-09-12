@@ -15,13 +15,20 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 12-09-2020 ( Delhi NCR's Fourteenth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=sp3fwZldESE)
+
+* [Usha Rengaraju](https://www.linkedin.com/in/usha-rengaraju-b570b7a2/): **Introduction to Tensorflow Hub & Text Classification using TF-Hub** 
+    *  [Slides] (To be Updated)
+
 ## 08-08-2020 ( Delhi NCR's Thirteenth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=OW0juxFbgzo)
 
 * [Rajesh Shreedhar Bhat](https://www.linkedin.com/in/rajeshshreedhar/): **Self-supervised Visual Feature Learning with Deep Neural Networks** 
     *  [Slides](https://drive.google.com/file/d/1IXOaYLI1foNWZNwNydsa2QK8YpsQjjfv/view?usp=sharing)
     
-    
 ## 11-07-2020 ( Delhi NCR's Twelfth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=hKGiyWAKT5E)
 
 * [Tarun Paparaju](https://www.linkedin.com/in/tarun-paparaju-734073190/): **Mathematical foundations of Neural Networks** 
     *  [Slides](https://drive.google.com/file/d/1ZkrPbg7hEpGC3aBi8DN-lsZwqvMbhlmh/view?usp=sharing)
