@@ -19,7 +19,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://www.youtube.com/watch?v=sp3fwZldESE)
 
 * [Usha Rengaraju](https://www.linkedin.com/in/usha-rengaraju-b570b7a2/): **Introduction to Tensorflow Hub & Text Classification using TF-Hub** 
-    *  [Slides] (To be Updated)
+    *  [Resource 1](https://github.com/tensorflow/hub/blob/master/README.md)
+    *  [Resource 2](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_text_classification.ipynb)
+    *  [Resource 3](https://www.tensorflow.org/lite)
+    *  [Resource 4](https://www.tensorflow.org/tutorials/generative/style_transfer)
+    *  [Resource 5](https://www.kaggle.com/c/tensorflow2-question-answering)
+    *  [Resource 6](https://tfhub.dev/)
 
 ## 08-08-2020 ( Delhi NCR's Thirteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=OW0juxFbgzo)
