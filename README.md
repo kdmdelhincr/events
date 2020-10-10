@@ -15,6 +15,15 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 10-10-2020 ( Delhi NCR's Fifteenth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=Z0yxJz-w4rQ)
+
+* [Sandip Bhattacharjee](https://www.linkedin.com/in/sandip1006/): **Large Scale Recommender Systems: Tips & Tricks beyond 101** 
+    *  [Speaker Content] (To be Updated)
+    
+* [Shahul ES](https://www.linkedin.com/in/shahules/): **Sentiment analysis from Beginner to Pro & Inroduction to Auto ML Open Source Project -> mljar-supervised** 
+    *  [Speaker Content] (To be Updated)
+
 ## 12-09-2020 ( Delhi NCR's Fourteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=sp3fwZldESE)
 
