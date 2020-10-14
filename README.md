@@ -19,10 +19,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://www.youtube.com/watch?v=Z0yxJz-w4rQ)
 
 * [Sandip Bhattacharjee](https://www.linkedin.com/in/sandip1006/): **Large Scale Recommender Systems: Tips & Tricks beyond 101** 
-    *  [Speaker Content] (To be Updated)
-    
+    *  [Resource 1](https://www.kaggle.com/sandy1112/book-reco-mf-using-svd-als-and-deep-learning)
+    *  [Resource 2](https://www.kaggle.com/sandy1112/book-reco-light-factorization-machine-using-dl)
+     
 * [Shahul ES](https://www.linkedin.com/in/shahules/): **Sentiment analysis from Beginner to Pro & Inroduction to Auto ML Open Source Project -> mljar-supervised** 
-    *  [Speaker Content] (To be Updated)
+    *  [Slides](https://github.com/shahules786/Workshops-and-talks/blob/master/powerpoints/kaggle%20days%20NCR.pdf)
+    *  [Resource 1](https://colab.research.google.com/drive/1tUr5t0ZJ-I4Ni40dkbjku92HAU5SyR_2?usp=sharing)
 
 ## 12-09-2020 ( Delhi NCR's Fourteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=sp3fwZldESE)
