@@ -19,6 +19,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://www.youtube.com/watch?v=Z0yxJz-w4rQ)
 
 * [Sandip Bhattacharjee](https://www.linkedin.com/in/sandip1006/): **Large Scale Recommender Systems: Tips & Tricks beyond 101** 
+    *  [Slides](https://drive.google.com/file/d/1B6UN_MI_VPZ6T9BFXWtls_1iVD5y_39H/view?usp=sharing)
     *  [Resource 1](https://www.kaggle.com/sandy1112/book-reco-mf-using-svd-als-and-deep-learning)
     *  [Resource 2](https://www.kaggle.com/sandy1112/book-reco-light-factorization-machine-using-dl)
      
