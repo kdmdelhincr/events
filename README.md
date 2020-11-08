@@ -15,6 +15,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 07-11-2020 ( Delhi NCR's Sixteenth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=wYeYhlB4KX8)
+
+* [Dimitre Oliveira](https://www.linkedin.com/in/dimitre-oliveira-7a1a0113a/): **Using TPUs for Computer Vision** 
+    *  [Slides](https://drive.google.com/file/d/1jcikY1loUPWogkbtgO9SkY9ngTlv1KLC/view?usp=sharing)
+
 ## 10-10-2020 ( Delhi NCR's Fifteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=Z0yxJz-w4rQ)
 
