@@ -15,6 +15,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 05-12-2020 ( Delhi NCR's Seventeenth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=cP9gOrNssOA)
+
+* [Crislanio Macedo](https://www.linkedin.com/in/crislanio/): **Applying Factor Analysis in Classification Problems** 
+    *  [Slides](https://drive.google.com/file/d/1z38I7rfr7JLQUGGwncntxYWNqFeCTEDL/view?usp=sharing)
+    *  [Resource 1](https://www.kaggle.com/caesarlupum/retail-case-ssl-fa/notebook)
+    
 ## 07-11-2020 ( Delhi NCR's Sixteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=wYeYhlB4KX8)
 
