@@ -15,6 +15,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 16-01-2021 ( Delhi NCR's Eighteenth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=UBSSDiIAjKQ)
+
+* [Pawel Jankiewicz](https://www.linkedin.com/in/pjankiewicz/): **Synthetic Data Generation for Deep Learning Models** 
+    *  [Slides] (To be uploaded)
+
+
 ## 05-12-2020 ( Delhi NCR's Seventeenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=cP9gOrNssOA)
 
