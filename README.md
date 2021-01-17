@@ -19,7 +19,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://www.youtube.com/watch?v=UBSSDiIAjKQ)
 
 * [Pawel Jankiewicz](https://www.linkedin.com/in/pjankiewicz/): **Synthetic Data Generation for Deep Learning Models** 
-    *  [Slides] (To be uploaded)
+    *  [Slides](https://drive.google.com/file/d/17PgcCya5FLxwgAFi9qDZny5xYyyOWUxj/view?usp=sharing)
 
 
 ## 05-12-2020 ( Delhi NCR's Seventeenth Kaggle Days Meetup @ Online )
