@@ -20,7 +20,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://www.youtube.com/watch?v=ef0hihz6jY0)
 
 * [Valerii Babushkin](https://www.linkedin.com/in/venheads/): **Recommendation Systems in Retail** 
-    *  [Slides] ( To be uploaded )
+    *  [Slides] ( Not shared by speaker )
 
 ## 16-01-2021 ( Delhi NCR's Eighteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=UBSSDiIAjKQ)
