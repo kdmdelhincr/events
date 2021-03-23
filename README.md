@@ -19,7 +19,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://youtu.be/47PqwGpYm1A)
 
 * [Andrada Olteanu](https://www.linkedin.com/in/andrada-olteanu-3806a2132/): **Mastering your Data Science Notebook Flow** 
-    *  [Slides] ( To be shared by speaker soon)
+    *  [Slides](https://drive.google.com/file/d/1Bg4-2iksV7o0N1hwUgoa45yDu3edyauF/view?usp=sharing)
 
 * [Parul Pandey](https://www.linkedin.com/in/parulpandeyindia/) and [Andrada Olteanu](https://www.linkedin.com/in/andrada-olteanu-3806a2132/): **Ask Me Anything Session (AI,ML)** 
 
