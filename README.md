@@ -273,8 +273,8 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
     * [Code](https://github.com/aquibjaved/Deep-learning-for-text-classification)
     
 * [Nishat Hussain](https://www.linkedin.com/in/nishathussain/): **Introduction to Computer Vision** 
-    * [Jupyter Notebook](https://github.com/kaggledelhi/talks/blob/master/KaggleDays_TOKOPEDIA_MeetupDEMO.ipynb)
-    * [Model Deployment Code](https://github.com/kaggledelhi/talks/blob/master/app_classify.py)
+    * [Jupyter Notebook](https://drive.google.com/file/d/1LIMAvZ_PwinEziMehAZGLDfs6nD_fTsx/view?usp=sharing)
+    * [Model Deployment Code](https://drive.google.com/file/d/1dZ5AgZex049JLpI7xUN7aZ8k5zMGv6dL/view?usp=sharing)
      
 * [Rajneesh Tiwari](https://www.linkedin.com/in/rajneesh-tiwari-693894122/): **More into Computer Vision** 
     * [Talk Recording](https://drive.google.com/open?id=1IoF5LIovVjoP9biahTLT8aG56vYPG2Vg)
