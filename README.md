@@ -15,6 +15,17 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 17-04-2021 ( Ninth Data Ketchup by KDM Delhi NCR with Team Nagarro )
+[View the Meetup Recording](https://youtu.be/BPeSL5OcRvk)
+
+* [Vikas Gandhi](https://www.linkedin.com/in/vikas-gandhi-a8a9834/): **Keynote Session on Data & Intelligence Platform** 
+
+* [Shallu Sarvari](https://www.linkedin.com/in/shallusarvari/): **Nuances of building a Data & AI Platform** 
+    * [Slides] (Not shared by speaker)
+
+* [Chanpreet Kaur](https://www.linkedin.com/in/chanpreet-kaur-1ab8a3137/): **Securing your Data Platform** 
+    * [Slides] (Not shared by speaker)
+
 ## 20-03-2021 ( Delhi NCR's Twentieth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/47PqwGpYm1A)
 
@@ -33,10 +44,10 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Session Recording](https://www.youtube.com/watch?v=5cFKeTz4JHU)
    
 * [Shambhavi Mishra](https://www.linkedin.com/in/shambhavi-codes/): **Getting Started with Research & her poster presentation experience @ WiML, NeurIPS 2020** 
-   * [Speaker Content] (Slides not shared by speaker)
+   * [Slides] (Not shared by speaker)
    
 * [Aditya Jyoti Paul](https://www.linkedin.com/in/phreakyphoenix/): **Diving into Research** 
-   * [Speaker Content](https://drive.google.com/file/d/1zZ83PAk7NTrFkSwBUkTzAUHSmBXz216S/view?usp=sharing)
+   * [Slides](https://drive.google.com/file/d/1zZ83PAk7NTrFkSwBUkTzAUHSmBXz216S/view?usp=sharing)
 
 
 ## 16-01-2021 ( Delhi NCR's Eighteenth Kaggle Days Meetup @ Online )
@@ -56,7 +67,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Session Recording](https://www.youtube.com/watch?v=5YzkpdOkgSE)
    
 * [Joshua Starmer](https://www.linkedin.com/in/naman-bhayani-9b183692/) : **Understanding Neural Networks** 
-   * [Speaker Content] (Slides not shared by speaker) 
+   * [Slides] (Not shared by speaker) 
     
 ## 07-11-2020 ( Delhi NCR's Sixteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=wYeYhlB4KX8)
@@ -68,10 +79,10 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Session Recording](https://www.youtube.com/watch?v=qEbVL9EoV1M)
    
 * [Naman Bhayani](https://www.linkedin.com/in/naman-bhayani-9b183692/) and [Ashish Pratap Singh](https://www.linkedin.com/in/ashk43712/): **Deploying Computer Vision Models in Cloud** 
-   * [Speaker Content](https://drive.google.com/file/d/1ehfsx8XPPbzwDe-Nc7baB6bPqStOZCj0/view?usp=sharing)
+   * [Slides](https://drive.google.com/file/d/1ehfsx8XPPbzwDe-Nc7baB6bPqStOZCj0/view?usp=sharing)
    
 * [Chakshu Garg](https://www.linkedin.com/in/chakshu-garg/): **Introduction to Spark for Data Science** 
-   * [Speaker Content](https://drive.google.com/file/d/1X0Ar4XIOR6C9qMO0_IFjCjJ6CP5j9N-4/view?usp=sharing)
+   * [Slides](https://drive.google.com/file/d/1X0Ar4XIOR6C9qMO0_IFjCjJ6CP5j9N-4/view?usp=sharing)
 
 ## 10-10-2020 ( Delhi NCR's Fifteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=Z0yxJz-w4rQ)
@@ -87,8 +98,9 @@ Refer to the speaker guides below to prepare for your first technical talks :
 
 ## 26-09-2020 ( Fifth Data Ketchup by KDM Delhi NCR )
 [Session Recording](https://www.youtube.com/watch?v=2HQUCC-lOR8)
+
 * [Tanvi Keswani](https://www.linkedin.com/in/tanvi-keswani-68b273a7/): **Explainable AI: Building Trust and Transparency in AI** 
-   * [Speaker Content](https://drive.google.com/file/d/1_xwVMOpF64HLOKNbJ9jyHyTqsocL6pMM/view?usp=sharing)
+   * [Slides](https://drive.google.com/file/d/1_xwVMOpF64HLOKNbJ9jyHyTqsocL6pMM/view?usp=sharing)
 
 ## 12-09-2020 ( Delhi NCR's Fourteenth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=sp3fwZldESE)
@@ -104,7 +116,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
  ## 29-08-2020 ( Fourth Data Ketchup by KDM Delhi NCR )
 [Session Recording](https://www.youtube.com/watch?v=Mas--YzMLwQ)
 * [Ajinkya Kolhe](https://www.linkedin.com/in/ajinkyakolhe112/): **Becoming Hirable in Data Science in 2022** 
-   * [Speaker Content](https://drive.google.com/file/d/1HT8_2q23pONj2AHi8XGx_yTSYDxqqLrw/view?usp=sharing) 
+   * [Slides](https://drive.google.com/file/d/1HT8_2q23pONj2AHi8XGx_yTSYDxqqLrw/view?usp=sharing) 
 
    ### Extra Resources
     - Recommended Books: Sure's you must be joking Mr Feynman, 5 elements of effective thinking
@@ -122,7 +134,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [Session Recording](https://youtu.be/1U0S0JRhH_U)
 
 * [Arghya Mukherjee](https://www.linkedin.com/in/arghya-mukherjee-11b34543/): **Deploying Machine Learning Models** 
-   * [Speaker Content](https://drive.google.com/drive/folders/1gXcI2AEmExbRykBbf12yJaG_14wDfq_4?usp=sharing) 
+   * [Slides](https://drive.google.com/drive/folders/1gXcI2AEmExbRykBbf12yJaG_14wDfq_4?usp=sharing) 
  
 ## 11-07-2020 ( Delhi NCR's Twelfth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=hKGiyWAKT5E)
@@ -138,7 +150,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [Session Recording](https://youtu.be/qk27M067yhs)
 
 * [Sourabh Maity](https://www.linkedin.com/in/sourabhmaity/): **Introduction to Graph Neural Networks** 
-   * [Speaker Content](https://drive.google.com/file/d/1qlBwNhLvyAU0LpNCuZtbtejkY6qdSy6E/view?usp=sharing) 
+   * [Slides](https://drive.google.com/file/d/1qlBwNhLvyAU0LpNCuZtbtejkY6qdSy6E/view?usp=sharing) 
    * [Code](https://colab.research.google.com/drive/1yUxkz48A1pbmRSiVkNz_g92-lLwB1Nlt?usp=sharing)
 
 
@@ -166,9 +178,8 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [Session Recording](https://youtu.be/1EphOE1mRwQ)
 
 * [Souradip Chakraborty](https://www.linkedin.com/in/souradip-chakraborty/): **Bayesian Linear Regression** 
-    * [Speaker Content](https://medium.com/@souradip_chak/bayesian-thinking-estimating-posterior-distribution-for-linear-regression-data-ketchup-2f50a597eb06) 
+    * [Slides](https://medium.com/@souradip_chak/bayesian-thinking-estimating-posterior-distribution-for-linear-regression-data-ketchup-2f50a597eb06) 
     * [Code](https://github.com/souradip-chakraborty/Soura_Codes/tree/master/Bayesian%20Thinking%20%40%20Data%20Ketchup%20%231%7C%7CKaggle%20Meetup)
-
 
 
 ## 16-05-2020 ( Delhi NCR's Tenth Kaggle Days Meetup @ Online )
@@ -215,10 +226,10 @@ View Complete Meetup Recording [here](https://drive.google.com/open?id=103SSZJJd
 ## 11-01-2020 ( Delhi NCR's Sixth Kaggle Days Meetup @ Gartner, Gurgaon )
     
 * [Chandra Shekhar Prasad](https://www.linkedin.com/in/chandrashekharprasad/): **Improving UX & Overcoming Data Insufficiency for Risk Model Development** 
-    * Slides ( Not Available; as slides contained some private data from speaker's side ) 
+    * [Slides] ( Not shared by speaker ) 
 
 * [Shraddha Avasthy](https://www.linkedin.com/in/shraddha-avasthy/): **Data Science as a Tool for Informing Business Insights** 
-    * Slides ( Not Available; as slides contained some private data from speaker's side ) 
+    * [Slides] ( Not shared by speaker ) 
   
   
 ## 28-12-2019 ( Delhi NCR's Fifth Kaggle Days Meetup @ Innovaccer, Noida )
