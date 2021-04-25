@@ -15,6 +15,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 24-04-2021 ( Delhi NCR's Twenty First Kaggle Days Meetup @ Online )
+[Oops! This Meetup was not recorded]
+
+* [Konstantin Yakovlev](https://www.linkedin.com/in/konstantin-yakovlev-010b46125/): **Feature Selection and Dimension Reduction on industrial Time-series Data ** 
+    *  [Slides] ( Not shared by speaker )
+
 ## 17-04-2021 ( Ninth Data Ketchup by KDM Delhi NCR with Team Nagarro )
 [View the Meetup Recording](https://youtu.be/BPeSL5OcRvk)
 
