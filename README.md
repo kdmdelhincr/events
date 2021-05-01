@@ -23,7 +23,9 @@ Refer to the speaker guides below to prepare for your first technical talks :
    * [Additional Resource](https://drive.google.com/file/d/143LcVgzjkAUOkmGzJ7giMWdARbrwI_bJ/view?usp=sharing)
    
 * [Ibtesam Ahmed](https://www.linkedin.com/in/ibtesam-ahmed/): **Machine Learning Interpretability** 
-   * [Slides] (To be shared)
+   * [Slides](https://drive.google.com/file/d/1XygvtHzXqA2wGD-d3SnsIIlol16HwuWE/view?usp=sharing)
+   * [Additional Resource 1](https://www.kaggle.com/ibtesama/unboxing-the-black-box)
+   * [Additional Resource 2](https://christophm.github.io/interpretable-ml-book/)
 
 ## 24-04-2021 ( Delhi NCR's Twenty First Kaggle Days Meetup @ Online )
 [Oops! This Meetup was not recorded]
