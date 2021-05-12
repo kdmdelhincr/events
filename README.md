@@ -15,6 +15,16 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+
+## 08-05-2021 ( Delhi NCR's Twenty Second Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/MIFkB0VEXUs)
+
+* [Jitendra Upadhyay](https://www.linkedin.com/in/jitendra-u-b089ba20/): **AutoNLP ( Covering Auto Model selection, Fine-tuning, and Deployment )** 
+    *  [Slides] ( To be shared by speaker soon)
+
+* [Samarth Agrawal](https://www.linkedin.com/in/samarth-agrawal-2501/): **LSTM Based Architecture ( With Code Demo )** 
+    *  [Resource](https://www.kaggle.com/nextbigwhat/understand-lstm-layer-by-layer)
+
 ## 01-05-2021 ( Tenth Data Ketchup by KDM Delhi NCR )
 * [Session Recording](https://www.youtube.com/watch?v=_gscxa5q76I)
    
