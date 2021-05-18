@@ -20,12 +20,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://youtu.be/MIFkB0VEXUs)
 
 * [Jitendra Upadhyay](https://www.linkedin.com/in/jitendra-u-b089ba20/): **AutoNLP ( Covering Auto Model selection, Fine-tuning, and Deployment )** 
-    *  [Slides] ( To be shared by speaker soon)
+    * [Slides] ( Not shared by speaker )
 
 * [Samarth Agrawal](https://www.linkedin.com/in/samarth-agrawal-2501/): **LSTM Based Architecture ( With Code Demo )** 
     *  [Resource](https://www.kaggle.com/nextbigwhat/understand-lstm-layer-by-layer)
 
-## 01-05-2021 ( Tenth Data Ketchup by KDM Delhi NCR )
+## 01-05-2021 ( Tenth Data Ketchup by KDM Delhi NCR @ Online )
 * [Session Recording](https://www.youtube.com/watch?v=_gscxa5q76I)
    
 * [Siti Khotijah](https://www.linkedin.com/in/siti-khotijah-06b0a8b3/): **Basic Machine Learning and Kaggle Experience** 
@@ -68,7 +68,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Valerii Babushkin](https://www.linkedin.com/in/venheads/): **Recommendation Systems in Retail** 
     *  [Slides] ( Not shared by speaker )
 
-## 23-01-2021 ( Eighth Data Ketchup by KDM Delhi NCR )
+## 23-01-2021 ( Eighth Data Ketchup by KDM Delhi NCR @ Online )
 * [Session Recording](https://www.youtube.com/watch?v=5cFKeTz4JHU)
    
 * [Shambhavi Mishra](https://www.linkedin.com/in/shambhavi-codes/): **Getting Started with Research & her poster presentation experience @ WiML, NeurIPS 2020** 
@@ -91,7 +91,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
     *  [Slides](https://drive.google.com/file/d/1z38I7rfr7JLQUGGwncntxYWNqFeCTEDL/view?usp=sharing)
     *  [Resource 1](https://www.kaggle.com/caesarlupum/retail-case-ssl-fa/notebook)
  
-## 27-11-2020 ( Seventh Data Ketchup by KDM Delhi NCR )
+## 27-11-2020 ( Seventh Data Ketchup by KDM Delhi NCR @ Online )
 * [Session Recording](https://www.youtube.com/watch?v=5YzkpdOkgSE)
    
 * [Joshua Starmer](https://www.linkedin.com/in/naman-bhayani-9b183692/) : **Understanding Neural Networks** 
@@ -103,7 +103,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Dimitre Oliveira](https://www.linkedin.com/in/dimitre-oliveira-7a1a0113a/): **Using TPUs for Computer Vision** 
     *  [Slides](https://drive.google.com/file/d/1jcikY1loUPWogkbtgO9SkY9ngTlv1KLC/view?usp=sharing)
 
-## 17-10-2020 ( Sixth Data Ketchup by KDM Delhi NCR )
+## 17-10-2020 ( Sixth Data Ketchup by KDM Delhi NCR @ Online )
 * [Session Recording](https://www.youtube.com/watch?v=qEbVL9EoV1M)
    
 * [Naman Bhayani](https://www.linkedin.com/in/naman-bhayani-9b183692/) and [Ashish Pratap Singh](https://www.linkedin.com/in/ashk43712/): **Deploying Computer Vision Models in Cloud** 
@@ -124,7 +124,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
     *  [Slides](https://github.com/shahules786/Workshops-and-talks/blob/master/powerpoints/kaggle%20days%20NCR.pdf)
     *  [Resource 1](https://colab.research.google.com/drive/1tUr5t0ZJ-I4Ni40dkbjku92HAU5SyR_2?usp=sharing)
 
-## 26-09-2020 ( Fifth Data Ketchup by KDM Delhi NCR )
+## 26-09-2020 ( Fifth Data Ketchup by KDM Delhi NCR @ Online )
 [Session Recording](https://www.youtube.com/watch?v=2HQUCC-lOR8)
 
 * [Tanvi Keswani](https://www.linkedin.com/in/tanvi-keswani-68b273a7/): **Explainable AI: Building Trust and Transparency in AI** 
@@ -141,7 +141,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
     *  [Resource 5](https://www.kaggle.com/c/tensorflow2-question-answering)
     *  [Resource 6](https://tfhub.dev/)
 
- ## 29-08-2020 ( Fourth Data Ketchup by KDM Delhi NCR )
+ ## 29-08-2020 ( Fourth Data Ketchup by KDM Delhi NCR @ Online )
 [Session Recording](https://www.youtube.com/watch?v=Mas--YzMLwQ)
 * [Ajinkya Kolhe](https://www.linkedin.com/in/ajinkyakolhe112/): **Becoming Hirable in Data Science in 2022** 
    * [Slides](https://drive.google.com/file/d/1HT8_2q23pONj2AHi8XGx_yTSYDxqqLrw/view?usp=sharing) 
@@ -158,7 +158,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Rajesh Shreedhar Bhat](https://www.linkedin.com/in/rajeshshreedhar/): **Self-supervised Visual Feature Learning with Deep Neural Networks** 
     *  [Slides](https://drive.google.com/file/d/1IXOaYLI1foNWZNwNydsa2QK8YpsQjjfv/view?usp=sharing)
     
-## 25-07-2020 ( Third Data Ketchup by KDM Delhi NCR )
+## 25-07-2020 ( Third Data Ketchup by KDM Delhi NCR @ Online )
 [Session Recording](https://youtu.be/1U0S0JRhH_U)
 
 * [Arghya Mukherjee](https://www.linkedin.com/in/arghya-mukherjee-11b34543/): **Deploying Machine Learning Models** 
@@ -174,7 +174,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
     *  [Slides](https://drive.google.com/file/d/16MkiiiOWvjhHy76zj_Sh2lfqsiEBjUSK/view?usp=sharing)
      * [Blog](http://jalammar.github.io/illustrated-transformer/)
 
-## 28-06-2020 ( Second Data Ketchup by KDM Delhi NCR )
+## 28-06-2020 ( Second Data Ketchup by KDM Delhi NCR @ Online )
 [Session Recording](https://youtu.be/qk27M067yhs)
 
 * [Sourabh Maity](https://www.linkedin.com/in/sourabhmaity/): **Introduction to Graph Neural Networks** 
@@ -202,7 +202,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Vikas Kumar](https://www.linkedin.com/in/vikashiitkgp/)
 
 
-## 23-05-2020 ( First Data Ketchup by KDM Delhi NCR )
+## 23-05-2020 ( First Data Ketchup by KDM Delhi NCR @ Online )
 [Session Recording](https://youtu.be/1EphOE1mRwQ)
 
 * [Souradip Chakraborty](https://www.linkedin.com/in/souradip-chakraborty/): **Bayesian Linear Regression** 
