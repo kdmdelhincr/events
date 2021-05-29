@@ -16,6 +16,15 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
 
+## 29-05-2021 ( Delhi NCR's Twenty Third Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/dJg27uJfUt4)
+
+* [ Ayush Singh](https://www.linkedin.com/in/ayush-singh488/): **A primer to Generative Adversarial Networks** 
+    * [Slides] ( Will be shared by mid June 2021 )
+
+* [Prashans Dixit](https://www.linkedin.com/in/prashans-dixit-b124a9203/): **Importance of Projects v/s No. of Certificates** 
+    *  [Slides](https://drive.google.com/file/d/19lLhjFTcAtQjezUUr3QKep2Y7jPYlXeP/view?usp=sharing)
+   
 ## 08-05-2021 ( Delhi NCR's Twenty Second Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/MIFkB0VEXUs)
 
