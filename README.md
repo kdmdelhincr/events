@@ -15,11 +15,20 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 05-06-2021 ( Delhi NCR's Twenty Fourth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/vLvc7VTs1Tk)
 
+* [Anjali Bhavan](https://www.linkedin.com/in/anjali-bhavan/): **Significance Testing in NLP** 
+    * [Slides] ( Not shared by the speaker yet)
+    * [Research Paper](https://www.aclweb.org/anthology/P18-1128.pdf)
+
+* [Samruddhi Mhatre](https://www.linkedin.com/in/samruddhi-mhatre/): **NLP with Deep Learning** 
+    *  [Slides](https://drive.google.com/file/d/15Hc54OtEr8X_p8SAAI2XRlgAhdcs4laI/view?usp=sharing)
+    
 ## 29-05-2021 ( Delhi NCR's Twenty Third Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/dJg27uJfUt4)
 
-* [ Ayush Singh](https://www.linkedin.com/in/ayush-singh488/): **A primer to Generative Adversarial Networks** 
+* [Ayush Singh](https://www.linkedin.com/in/ayush-singh488/): **A primer to Generative Adversarial Networks** 
     * [Slides] ( Will be shared by mid June 2021 )
 
 * [Prashans Dixit](https://www.linkedin.com/in/prashans-dixit-b124a9203/): **Importance of Projects v/s No. of Certificates** 
