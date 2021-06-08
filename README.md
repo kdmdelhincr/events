@@ -19,7 +19,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://youtu.be/vLvc7VTs1Tk)
 
 * [Anjali Bhavan](https://www.linkedin.com/in/anjali-bhavan/): **Significance Testing in NLP** 
-    * [Slides] ( Not shared by the speaker yet)
+    * [Slides](https://slides.com/anjalibhavan/significance-testing-in-nlp)
     * [Research Paper](https://www.aclweb.org/anthology/P18-1128.pdf)
 
 * [Samruddhi Mhatre](https://www.linkedin.com/in/samruddhi-mhatre/): **NLP with Deep Learning** 
