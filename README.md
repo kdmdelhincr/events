@@ -15,6 +15,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 03-07-2021 ( Eleventh Data Ketchup by KDM Delhi NCR @ Online )
+[View the Meetup Recording](https://youtu.be/-vD9Q197-5k)
+
+* [Bruno de Paula Jacoia ](https://www.linkedin.com/in/bruno-de-paula-jacoia/): **Optimizing the underwriting with survival analysis** 
+    *  [Slides](https://drive.google.com/file/d/1jPX1UxifZ4_l9AifimgiP93qe--zi34a/view?usp=sharing)
+
 ## 05-06-2021 ( Delhi NCR's Twenty Fourth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/vLvc7VTs1Tk)
 
