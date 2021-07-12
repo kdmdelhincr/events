@@ -15,8 +15,14 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 11-07-2021 ( Delhi NCR's Twenty Fifth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/watch?v=rnMmXs-f8mI)
+
+* [Louise Ferbach](https://www.linkedin.com/in/louise-ferbach/): **Embeddings : Generation and Uses in NLP** 
+    *  [Slides](https://drive.google.com/file/d/1LOmBUch__zF2zFIk9Lle4DYf6QBjY1hU/view?usp=sharing)
+
 ## 03-07-2021 ( Eleventh Data Ketchup by KDM Delhi NCR @ Online )
-[View the Meetup Recording](https://youtu.be/-vD9Q197-5k)
+[View the Event Recording](https://youtu.be/-vD9Q197-5k)
 
 * [Bruno de Paula Jacoia ](https://www.linkedin.com/in/bruno-de-paula-jacoia/): **Optimizing the underwriting with survival analysis** 
     *  [Slides](https://drive.google.com/file/d/1jPX1UxifZ4_l9AifimgiP93qe--zi34a/view?usp=sharing)
