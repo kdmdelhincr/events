@@ -15,6 +15,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 25-07-2021 ( Twelfth Data Ketchup by KDM Delhi NCR @ Online )
+[View the Event Recording](https://youtu.be/g-RNriWX_ro)
+
+* [Kautilya Katariya](https://www.linkedin.com/in/bruno-de-paula-jacoia/): **Computational Complexity & Different Algorithms** 
+    *  [Slides] (To be shared by Speaker by end og July 2021)
+
 ## 11-07-2021 ( Delhi NCR's Twenty Fifth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/watch?v=rnMmXs-f8mI)
 
