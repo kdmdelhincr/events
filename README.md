@@ -15,6 +15,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 14-08-2021 ( Delhi NCR's Twenty Sixth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/uQx2bbRzvKI)
+
+* [Tanay Mehta](https://www.linkedin.com/in/tanaymehta28/): **Best Practices and Memory-Efficient Coding in Pytorch** 
+    *  [Slides](https://drive.google.com/file/d/1sGaBcnUjLO8c-z7aVBYM2vWdozvi3Vlu/view?usp=sharing)
+    *  [Notebook](https://www.kaggle.com/heyytanay/torch-multi-model-trainer-amp-augmentations)
+
 ## 25-07-2021 ( Twelfth Data Ketchup by KDM Delhi NCR @ Online )
 [View the Event Recording](https://youtu.be/g-RNriWX_ro)
 
