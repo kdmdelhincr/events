@@ -19,7 +19,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 ## 18-09-2021 ( Delhi NCR's Twenty Seventh Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/oRqzFSo7KSE)
 
-* [Mohammed Rizin](https://www.linkedin.com/in/morizin/): **Tricks in Computer Vision and EnsemblingP** 
+* [Mohammed Rizin](https://www.linkedin.com/in/morizin/): **Tricks in Computer Vision and Ensembling** 
     *  [Slides](https://drive.google.com/file/d/1Xet0qFBbnBu4KkTNi-A10TTY_O-V-_IB/view?usp=sharing)
 
 ## 28-08-2021 ( Thirteenth Data Ketchup by KDM Delhi NCR @ Online )
