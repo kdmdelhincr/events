@@ -15,6 +15,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+
+## 18-09-2021 ( Delhi NCR's Twenty Seventh Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/oRqzFSo7KSE)
+
+* [Mohammed Rizin](https://www.linkedin.com/in/morizin/): **Tricks in Computer Vision and EnsemblingP** 
+    *  [Slides](https://drive.google.com/file/d/1Xet0qFBbnBu4KkTNi-A10TTY_O-V-_IB/view?usp=sharing)
+
 ## 28-08-2021 ( Thirteenth Data Ketchup by KDM Delhi NCR @ Online )
 [View the Meetup Recording](https://youtu.be/J_33jSkFQis)
 
