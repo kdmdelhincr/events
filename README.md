@@ -16,6 +16,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
 
+## 09-10-2021 ( Delhi NCR's Twenty Eighth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/KodoGahwPdI)
+
+* [Ishan Dutta](https://www.linkedin.com/in/ishandutta0098): **Deep Learning Experiment Tracking using Weights and Biases** 
+    *  [Slides](https://drive.google.com/file/d/1GGQFdHaJIlEaYFK3VExqDQ22LmPrUldj/view?usp=sharing)
+    *  [Notebook](https://www.kaggle.com/ishandutta/deep-learning-experiment-tracking-with-w-b)
+
 ## 18-09-2021 ( Delhi NCR's Twenty Seventh Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/oRqzFSo7KSE)
 
