@@ -15,6 +15,11 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 13-11-2021 ( Delhi NCR's Twenty Ninth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/Hez-1kLo_Yc)
+
+* [Andrey Lukyanenko](https://www.linkedin.com/in/andlukyane/): **Data visualization in Data Science** 
+    *  [Slides](https://slides.com/andreylukyanenko/data_vis_in_ds)
 
 ## 09-10-2021 ( Delhi NCR's Twenty Eighth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/KodoGahwPdI)
