@@ -15,6 +15,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 05-12-2021 ( Delhi NCR's Thirtieth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/X_fp4Xh7HlM)
+
+* [Dr. Amritpal Singh](https://www.linkedin.com/in/amritpal-singh-001/): **Leveraging domain expertise on Kaggle** 
+    *  [Slides](https://drive.google.com/file/d/17pTIlW-q9LRJpCyNykHIS5GridNm85g_/view?usp=sharing)
+
 ## 13-11-2021 ( Delhi NCR's Twenty Ninth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/Hez-1kLo_Yc)
 
