@@ -15,6 +15,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 29-01-2022 ( Delhi NCR's Thirty First Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/pDot1tJkK0Q)
+
+* [Ritesh Yadav](https://www.linkedin.com/in/ritesh-yadav2011/): **Building GPT-3 powered NLP Applications** 
+    *  [Slides](https://drive.google.com/file/d/1vV1bb3sEfN_gSWDlzp5wYcdF3L-F7Cae/view?usp=sharing)
+    *  [Notebook](https://drive.google.com/file/d/10RbhygEquFsErhggPpSzEUvPm1e4oPZQ/view?usp=sharing)
+    *  
 ## 05-12-2021 ( Delhi NCR's Thirtieth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/X_fp4Xh7HlM)
 
