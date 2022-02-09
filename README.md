@@ -1,12 +1,10 @@
-# Events conducted by Kaggle Days Meetup Delhi NCR
+# Events conducted by Kaggle Days Meetup ( KDM ) Delhi NCR
  
 To propose a talk, simply fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeN2qC26qq7BkBMhWz6lbr3_p5t0tHgJkdXffcMJaTCKggT0w/viewform) form. Our team will get back to you with the best suitable Meetup Date, Time, Venue etc.
 
 ## How are the speakers for Kaggle Days Meetup Delhi NCR selected ?
 
-We do look into all the applications received via the Form link mentioned above. 
-
-All the Speaker Interest Applications are being scrutinized by the *Kaggle Team + Kaggle Days Team + Our Previous Speakers ( Including Kaggle Grandmasters, Kaggle Experts, Kaggle Masters, AVPs/Directors of Data Science + Ayon Roy ( Organizer @ KDM Delhi NCR )* before we finalize a speaker for the Meetups. 
+We do look into all the applications received via the Form link mentioned above. All the Speaker Interest Applications are being scrutinized by the *Organizing team of KDM Delhi NCR )* before we finalize a speaker for the events. 
 
 Refer to the speaker guides below to prepare for your first technical talks :
 - https://www.cfpland.com/guides/speaking/
@@ -21,7 +19,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 * [Ritesh Yadav](https://www.linkedin.com/in/ritesh-yadav2011/): **Building GPT-3 powered NLP Applications** 
     *  [Slides](https://drive.google.com/file/d/1vV1bb3sEfN_gSWDlzp5wYcdF3L-F7Cae/view?usp=sharing)
     *  [Notebook](https://drive.google.com/file/d/10RbhygEquFsErhggPpSzEUvPm1e4oPZQ/view?usp=sharing)
-    *  
+    
 ## 05-12-2021 ( Delhi NCR's Thirtieth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/X_fp4Xh7HlM)
 
