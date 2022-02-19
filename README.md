@@ -13,6 +13,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 19-02-2022 ( Delhi NCR's Thirty Second Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/sGNXPYh-cj0)
+
+* [Kriti Doneria](https://www.linkedin.com/in/kritidoneria/): **Introduction to Model Risk Management - An Ethical AI Standpoint** 
+    *  [Slides] ( To be updated )
+
 ## 29-01-2022 ( Delhi NCR's Thirty First Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/pDot1tJkK0Q)
 
