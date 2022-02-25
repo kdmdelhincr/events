@@ -17,7 +17,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 [View the Meetup Recording](https://youtu.be/sGNXPYh-cj0)
 
 * [Kriti Doneria](https://www.linkedin.com/in/kritidoneria/): **Introduction to Model Risk Management - An Ethical AI Standpoint** 
-    *  [Slides] ( To be updated )
+    *  [Slides](https://drive.google.com/file/d/1Y69UYbLQfXOh5OP3gUI983nV8QaYdUgV/view?usp=sharing)
 
 ## 29-01-2022 ( Delhi NCR's Thirty First Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/pDot1tJkK0Q)
