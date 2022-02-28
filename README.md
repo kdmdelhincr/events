@@ -13,6 +13,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 26-02-2022 ( Fourteenth Data Ketchup by KDM Delhi NCR @ Online )
+[View the Meetup Recording](https://youtu.be/czwLHjRUoQ4)
+
+* [Ishan Dutta](https://www.linkedin.com/in/ishandutta0098): **Deep Learning Experiment Tracking using Weights and Biases** 
+    *  [Slides](https://docs.google.com/presentation/d/1OKVf08ylAAM1qmGjU5rcfrn8kONALd8y90E6FvGQixs/edit?usp=sharing)
+    *  [Notebook](https://colab.research.google.com/drive/1njr_AYNYrGew0oE2JxKdNzFUgB6JCyAj?usp=sharing)
+
 ## 19-02-2022 ( Delhi NCR's Thirty Second Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/sGNXPYh-cj0)
 
