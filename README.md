@@ -16,7 +16,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 ## 26-02-2022 ( Fourteenth Data Ketchup by KDM Delhi NCR @ Online )
 [View the Meetup Recording](https://youtu.be/czwLHjRUoQ4)
 
-* [Ishan Dutta](https://www.linkedin.com/in/ishandutta0098): **Deep Learning Experiment Tracking using Weights and Biases** 
+* [Wagner Assis](https://www.linkedin.com/in/wagner-assis-b0839611/): **Demand Forecasting ( Using Time Series )** 
     *  [Slides](https://docs.google.com/presentation/d/1OKVf08ylAAM1qmGjU5rcfrn8kONALd8y90E6FvGQixs/edit?usp=sharing)
     *  [Notebook](https://colab.research.google.com/drive/1njr_AYNYrGew0oE2JxKdNzFUgB6JCyAj?usp=sharing)
 
