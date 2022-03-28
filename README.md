@@ -14,7 +14,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
 ## 26-03-2022 ( Delhi NCR's Thirty Third Kaggle Days Meetup @ Online )
-[View the Meetup Recording](https://youtu.be/pDot1tJkK0Q)
+[View the Meetup Recording](https://youtu.be/8c-EiihA4wo)
 
 * [Mani Sarkar](https://www.linkedin.com/in/mani-sarkar/): **Studying the limitations of statistical measurements** 
     *  [Slides](https://drive.google.com/file/d/1rxmkVrJbNzK8vIIKU3XH23Mu-rDj2woF/view?usp=sharing)
