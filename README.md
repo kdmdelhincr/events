@@ -13,6 +13,13 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 26-03-2022 ( Delhi NCR's Thirty Third Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/pDot1tJkK0Q)
+
+* [Mani Sarkar](https://www.linkedin.com/in/mani-sarkar/): **Studying the limitations of statistical measurements** 
+    *  [Slides](https://drive.google.com/file/d/1rxmkVrJbNzK8vIIKU3XH23Mu-rDj2woF/view?usp=sharing)
+    *  [Notebook](https://www.kaggle.com/code/neomatrix369/studying-the-limitations-of-stats-measurements)
+
 ## 26-02-2022 ( Fourteenth Data Ketchup by KDM Delhi NCR @ Online )
 [View the Meetup Recording](https://youtu.be/czwLHjRUoQ4)
 
