@@ -13,6 +13,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 30-04-2022 ( Delhi NCR's Thirty Fourth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/SW8lOJUy6dI)
+
+* [Vahideh Dashti](https://www.linkedin.com/in/vahideh-dashti-4b476b108/): **How to become a data scientist with help of Kaggle?** 
+    *  [Slides](https://drive.google.com/file/d/1SqC5ln8yO4pIF-sCVVQN329eQgVvJz2p/view?usp=sharing)
+
 ## 26-03-2022 ( Delhi NCR's Thirty Third Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/8c-EiihA4wo)
 
