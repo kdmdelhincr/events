@@ -13,6 +13,15 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+
+## 28-05-2022 ( Delhi NCR's Thirty Fifth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/WpeqIRxRKAg)
+
+* [Urvish Patel]([https://www.linkedin.com/in/mani-sarkar/](https://www.linkedin.com/in/urvish-patel-1810/)): **Creating instrument/music classification algorithm using Deep Learning** 
+    *  [Slides](https://drive.google.com/file/d/13Am24iWX5vcup-CEQjZab1B4ahL1i3X9/view?usp=sharing)
+    *  [EDA Notebook](https://www.kaggle.com/code/urvishp80/eda-and-visualization/notebook)
+    *  [Training Notebook](https://www.kaggle.com/code/urvishp80/train-cnn-on-musical-instrument-audio/notebook)
+
 ## 30-04-2022 ( Delhi NCR's Thirty Fourth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/SW8lOJUy6dI)
 
