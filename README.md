@@ -14,6 +14,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
 
+## 18-06-2022 ( Delhi NCR's Thirty Sixth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/jLDdlAYQhg0)
+
+* [Luca Massaron](https://www.linkedin.com/in/lmassaron/): **Deep Learning for Credit Rating** 
+    *  [Slides](https://drive.google.com/file/d/1YaXk3UcHB7Pg82wueVHN7Mazbx2qUc1M/view?usp=sharing)
+
 ## 28-05-2022 ( Delhi NCR's Thirty Fifth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/WpeqIRxRKAg)
 
