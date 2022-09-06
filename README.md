@@ -13,7 +13,11 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 30-07-2022 ( Delhi NCR's Thirty Seventh Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/Seh8ApkltLM)
 
+* [Konrad Banachewicz](https://www.linkedin.com/in/konrad-banachewicz-8879572/) & [Luca Massaron](https://www.linkedin.com/in/lmassaron/): **Panel Discussion on " Grandmasters Journey on Kaggle + The Kaggle Book "**    
+    
 ## 18-06-2022 ( Delhi NCR's Thirty Sixth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/jLDdlAYQhg0)
 
