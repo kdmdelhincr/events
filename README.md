@@ -13,6 +13,15 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 20-08-2022 ( Delhi NCR's Thirty Eigth Kaggle Days Meetup @ Evaluerserve, Gurgaon
+
+* [Prateek Kumar Agnihotri](https://www.linkedin.com/in/prateek-kumar-agnihotri/): **Images to Embeddings** 
+    *  [Slides](https://drive.google.com/file/d/1eOkTN4Bu2EjezB13DApsj0FLxE6q93to/view?usp=sharing)
+    
+* [Kriti Doneria](https://www.linkedin.com/in/kritidoneria/): **Introduction to Data Sonification** 
+    *  [Slides](https://drive.google.com/file/d/1wBhyMrWPstOzTO7PDCoNrbUlfutkpNJU/view?usp=sharing)
+    *  [Notebook](https://www.kaggle.com/code/kritidoneria/making-your-data-sing-data-sonification?scriptVersionId=103726145)
+
 ## 30-07-2022 ( Delhi NCR's Thirty Seventh Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/Seh8ApkltLM)
 
