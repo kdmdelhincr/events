@@ -13,6 +13,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 24-09-2022 ( Delhi NCR's Thirty Nineeth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/5YHMgmByfuo)
+
+* [Gyanendra Das](https://www.linkedin.com/in/gyanendralucky/): **Deep Active Learning** 
+    *  [Slides](https://drive.google.com/file/d/1kFNMRYlseSF8lsuYteHTVKiQcDaZkl2x/view?usp=sharing)
+
 ## 20-08-2022 ( Delhi NCR's Thirty Eigth Kaggle Days Meetup @ Evaluerserve, Gurgaon )
 
 * [Prateek Kumar Agnihotri](https://www.linkedin.com/in/prateek-kumar-agnihotri/): **Images to Embeddings** 
