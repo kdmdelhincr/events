@@ -13,6 +13,14 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 15-10-2022 ( Delhi NCR's Fourtieth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/Wcoa5XAcPb8)
+
+* [Aishik Rakshit](https://www.linkedin.com/in/a-rakshit/): **Introduction to CLIP Model** 
+    *  [Slides](https://www.canva.com/design/DAFOuYgTgkI/qKofpiHXDRNit0kO_kIFOw/view)
+    *  [Notebook](https://www.kaggle.com/code/aishikai/openai-clip-simple-implementation/notebook)
+    *  [Notebook](https://colab.research.google.com/drive/1gIvWSYbm5EvRCsae9lvBxOdoHY0AUA4Q?usp=sharing)
+
 ## 24-09-2022 ( Delhi NCR's Thirty Nineeth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/5YHMgmByfuo)
 
