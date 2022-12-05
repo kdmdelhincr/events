@@ -13,6 +13,19 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 03-12-2022 ( Delhi NCR's Forty First Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/Wcoa5XAcPb8)
+
+* [Siddhartha Samant](https://www.linkedin.com/in/siddhartha-samant-6a52111a7/): **Quantum Computing, ML and Challenges in Conversational AI** 
+    *  [Slides](https://drive.google.com/file/d/1Zyli8Az9pO5BY7C_ldigB9AMdpKghD9j/view?usp=sharing)
+    *  [What is Quantum Machine Learning? — PennyLane documentation](https://pennylane.ai/qml/whatisqml.html)
+    *  [Determine where to place new charging stations on a map based on locations of existing charging stations and points of interest](https://github.com/dwave-examples/ev-charger-placement)
+    * [Detect NLP data drift using custom Amazon SageMaker Model Monitor](https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/)
+    * [High-performance Inferencing with Transformer Models on Spark](https://towardsdatascience.com/high-performance-inferencing-with-large-transformer-models-on-spark-beb82e71ecc9)
+    * [Quadratic unconstrained binary optimization](https://en.wikipedia.org/wiki/Quadratic_unconstrained_binary_optimization)
+    * [QUBO Tutorial](https://leeds-faculty.colorado.edu/glover/511%20-%20QUBO%20Tutorial%20-%20updated%20version%20-%20May%204,%202019.pdf)
+    * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
+
 ## 15-10-2022 ( Delhi NCR's Fourtieth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/Wcoa5XAcPb8)
 
