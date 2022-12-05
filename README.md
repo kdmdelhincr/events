@@ -14,7 +14,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
 ## 03-12-2022 ( Delhi NCR's Forty First Kaggle Days Meetup @ Online )
-[View the Meetup Recording](https://youtu.be/Wcoa5XAcPb8)
+[View the Meetup Recording](https://youtu.be/XxB_WiWuBWw)
 
 * [Siddhartha Samant](https://www.linkedin.com/in/siddhartha-samant-6a52111a7/): **Quantum Computing, ML and Challenges in Conversational AI** 
     *  [Slides](https://drive.google.com/file/d/1Zyli8Az9pO5BY7C_ldigB9AMdpKghD9j/view?usp=sharing)
