@@ -13,6 +13,12 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 24-12-2022 ( Delhi NCR's Forty Second Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://youtu.be/6v4eCx3Bgog)
+
+* [Usha Rengaraju](https://www.linkedin.com/in/usha-rengaraju-b570b7a2/): **Accelerating Machine Learning using JAX** 
+    *  [Slides](https://drive.google.com/file/d/1o8LyMjy3xxcFpBnAJlqYLCcCemSBYpQa/view?usp=sharing)
+
 ## 03-12-2022 ( Delhi NCR's Forty First Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/XxB_WiWuBWw)
 
