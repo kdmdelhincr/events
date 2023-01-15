@@ -13,6 +13,23 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 14-01-2023 ( Delhi NCR's Forty Third Kaggle Days Meetup @ Spyne, Gurgaon )
+[View the Pre-Lunch Meetup Recording](https://www.linkedin.com/posts/spyne-ai_kaggle-days-meetup-discussion-on-opportunities-activity-7019915847871664128-ICJS )
+
+[View the Post-Lunch Meetup Recording](https://www.linkedin.com/posts/spyne-ai_kaggle-days-meetup-panel-discussion-activity-7019953860341305344-X3eb )
+
+### Speaker
+
+* [Dr. Lokender Tiwari](https://www.linkedin.com/in/lokender/): **Towards Robust Scene Understanding** 
+    *  [Slides](To be updated soon)
+
+### Panelists for discussion on "Opportunities in Computer Vision: What, Where & How"
+
+* [Sanjay Kumar Varnwal](https://www.linkedin.com/in/sanjaykv/)
+* [Dr. Lokender Tiwari](https://www.linkedin.com/in/lokender/)
+* [Dr. Suvidha Tripathi](https://www.linkedin.com/in/suvidha-tripathi-8193b716/)
+* [Avik Kuthiala](https://www.linkedin.com/in/avikkuthiala/)
+
 ## 24-12-2022 ( Delhi NCR's Forty Second Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://youtu.be/6v4eCx3Bgog)
 
