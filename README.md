@@ -21,7 +21,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
 ### Speaker
 
 * [Dr. Lokender Tiwari](https://www.linkedin.com/in/lokender/): **Towards Robust Scene Understanding** 
-    *  [Slides](To be updated soon)
+    * [Slides](https://drive.google.com/file/d/1b97-TwqR1IWW65hc2M7DSh_zead17dqx/view?usp=sharing)
 
 ### Panelists for discussion on "Opportunities in Computer Vision: What, Where & How"
 
