@@ -13,11 +13,21 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 17-06-2023 ( Delhi NCR's Forty Fifth Kaggle Days Meetup @ Evalueserve, Gurgaon ) [ Community's 4th Anniversary Meetup ]
+
+### Speakers
+
+* [Sanyam Bhutani](https://www.linkedin.com/in/sanyambhutani/): **State of LLMs, how to build your own LLM** 
+    * [Resource](https://github.com/h2oai/h2o-llmstudio)
+ 
+* [Nischay Dhankhar](https://www.linkedin.com/in/nischay-dhankhar-6a9357191/): **How to approach any Kaggle competition** 
+    * [Slides](https://drive.google.com/file/d/1cAknWAfRtK2XzKrKHSmAQjKcFwYnNPSj/view?usp=sharing)
+
 ## 15-04-2023 ( Delhi NCR's Forty Fourth Kaggle Days Meetup @ Online )
 [View the Meetup Recording](https://www.youtube.com/live/ek5i0WUBRQo)
 
 * [Ishika Johari](https://www.linkedin.com/in/ijohari/): **Fundamentals of A/B Testing** 
-    *  [Slides](To be updated)
+    *  [Slides](https://drive.google.com/file/d/1TtdJopY4RhPRRRnvMHtcxmqh22P6E0UT/view?usp=sharing)
 
 ## 14-01-2023 ( Delhi NCR's Forty Third Kaggle Days Meetup @ Spyne, Gurgaon )
 [View the Pre-Lunch Meetup Recording](https://www.linkedin.com/posts/spyne-ai_kaggle-days-meetup-discussion-on-opportunities-activity-7019915847871664128-ICJS )
