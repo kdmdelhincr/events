@@ -13,6 +13,33 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 16-03-2024 ( Delhi NCR's Forty Seventh Kaggle Days Meetup @ Zomato, Gurgaon )
+
+### Speakers
+
+* [Alekhya Bhatraju](https://www.linkedin.com/in/alekhya-bhatraju-643a74123/): **Generative AI beyond ChatGPT** 
+    * Slides - To be Updated soon
+
+ * [Dr. Maneet Singh](https://www.linkedin.com/in/maneet-singh-a00992179/): **Applications of AI/ML in the Financial Domain** 
+    * Slides - To be Updated soon
+      
+  * [Ujjyaini Mitra](https://www.linkedin.com/in/ujjyainimitra/): **Talent Demand in the GenAI Era - what it Will Take to Stay Ahead of the Curve?** 
+    * Slides - To be Updated soon
+
+  * [Shreya Shukla](https://www.linkedin.com/in/shreyashukla1109/): **LogsAI : AI Copilot to make City CEOs 100x'ers** 
+    * Slides - To be Updated soon
+
+  * [Poonam Thapar](https://www.linkedin.com/in/poonam-thapar-9150447a/): **Leveraging GenAI to enhance Menu images at scale** 
+    * Slides - To be Updated soon
+
+      
+## 13-08-2023 ( Delhi NCR's Forty Sixth Kaggle Days Meetup @ Online )
+[View the Meetup Recording](https://www.youtube.com/live/ugAtHwq-Pn8)
+
+* [Souradip Chakraborty](https://www.linkedin.com/in/souradip-chakraborty/): **Reinforcement Learning from Human Feedback - The success behind ChatGPT** 
+    *  Slides - Not shared by speaker
+
+
 ## 17-06-2023 ( Delhi NCR's Forty Fifth Kaggle Days Meetup @ Evalueserve, Gurgaon ) [ Community's 4th Anniversary Meetup ]
 
 ### Speakers
