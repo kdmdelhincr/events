@@ -13,24 +13,75 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 22-06-2024 ( Delhi NCR's Fiftieth Kaggle Days Meetup @ IIIT Delhi ) [ Community's 5th Anniversary Meetup ]
+
+### Speakers
+
+* [Prof Ganesh Bagler](https://www.linkedin.com/in/sanyambhutani/): **Computational Gastronomy: A Data Science Approach to Food** 
+    * [Resource](To be Updated)
+
+* [Ashish Tiwari](https://www.linkedin.com/in/sanyambhutani/): **Function calling - Connect ChatGPT to the Internet** 
+    * [Resource](To be Updated)
+
+* [Sanyam Bhutani](https://www.linkedin.com/in/sanyambhutani/): **Case Study of building AI agents & LLM Finetuning from Zero to Grandmaster** 
+    * Slides - Not shared by speaker
+
+* [Nischay Dhankhar](https://www.linkedin.com/in/nischay-dhankhar-6a9357191/): **Mastering Kaggle Competitions** 
+    * [Slides](https://drive.google.com/file/d/1cAknWAfRtK2XzKrKHSmAQjKcFwYnNPSj/view?usp=sharing)
+
+## 18-05-2024 ( Delhi NCR's Forty Ninth Kaggle Days Meetup @ Material, Gurgaon )
+
+### Speakers
+
+* [Swati Dubey](https://www.linkedin.com/in/swatidubey91/): **Join the data revolution with Snowflake - the champion reshaping business futures worldwide** 
+    * Slides - Not shared by speaker
+
+* [Aman Deep](https://www.linkedin.com/in/amandeep25/): **Beyond the Hype: Real-World Magic with Snowflake's Unmatched Capabilities** 
+    * Slides - Not shared by speaker
+
+* [Sanjeev Singh](https://www.linkedin.com/in/sanjeevhbti45): **GenAI x Data Architect : From Table to Trend** 
+    * Slides - Not shared by speaker
+
+* [Sanyam Bhutani](https://www.linkedin.com/in/sanyambhutani/): **Cutting edge tricks of Data Engineering for LLMs** 
+    * Slides - Not shared by speaker
+
+## 27-04-2024 ( Delhi NCR's Forty Eighth Kaggle Days Meetup @ Mastercard, Gurgaon )
+
+### Speakers
+
+* [Garima Arora](https://www.linkedin.com/in/imgarimaarora/): **Introduction to MasterCard AI Garage** 
+    * Slides - Not shared by speaker
+
+* [Yatin Katyal](https://www.linkedin.com/in/yatinkatyal/): **Scalable AI Application in MasterCard AI Garage** 
+    * Slides - Not shared by speaker
+
+* [Dr Ankur Arora](https://www.linkedin.com/in/dr-ankur-arora-75989915/) and [Ram Ganesh](https://www.linkedin.com/in/ram-ganesh-038142141/): **Scalable Graph Research** 
+    * Slides - Not shared by speaker
+
+* [Bhaskarjit Sarmah](https://www.linkedin.com/in/bhaskarjitsarmah/): **RAG on Financial Knowledge Graphs** 
+    * Slides - Not shared by speaker
+
+* [Sanyam Bhutani](https://www.linkedin.com/in/sanyambhutani/): **GenAI Ecosystem for Finance** 
+    * [Resource](https://github.com/h2oai/h2o-llmstudio)
+
 ## 16-03-2024 ( Delhi NCR's Forty Seventh Kaggle Days Meetup @ Zomato, Gurgaon )
 
 ### Speakers
 
 * [Alekhya Bhatraju](https://www.linkedin.com/in/alekhya-bhatraju-643a74123/): **Generative AI beyond ChatGPT** 
-    * Slides - To be Updated soon
+    * Slides - Not shared by speaker
 
  * [Dr. Maneet Singh](https://www.linkedin.com/in/maneet-singh-a00992179/): **Applications of AI/ML in the Financial Domain** 
-    * Slides - To be Updated soon
+    * Slides - Not shared by speaker
       
   * [Ujjyaini Mitra](https://www.linkedin.com/in/ujjyainimitra/): **Talent Demand in the GenAI Era - what it Will Take to Stay Ahead of the Curve?** 
-    * Slides - To be Updated soon
+    * Slides - Not shared by speaker
 
   * [Shreya Shukla](https://www.linkedin.com/in/shreyashukla1109/): **LogsAI : AI Copilot to make City CEOs 100x'ers** 
-    * Slides - To be Updated soon
+    * Slides - Not shared by speaker
 
   * [Poonam Thapar](https://www.linkedin.com/in/poonam-thapar-9150447a/): **Leveraging GenAI to enhance Menu images at scale** 
-    * Slides - To be Updated soon
+    * Slides - Not shared by speaker
 
       
 ## 13-08-2023 ( Delhi NCR's Forty Sixth Kaggle Days Meetup @ Online )
