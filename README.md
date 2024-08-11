@@ -21,7 +21,7 @@ Refer to the speaker guides below to prepare for your first technical talks :
     * [Slides](https://drive.google.com/file/d/1EKpj41twYnYlk44bbXUc2WzyTIhYgiLc/view?usp=sharing)
 
 * [Ashish Tiwari](https://www.linkedin.com/in/sanyambhutani/): **Function calling - Connect ChatGPT to the Internet** 
-    * [Slides](https://slides.ashish.one/function-calling/1)
+    * [Slides](https://slides.ashish.one/function-calling/)
 
 * [Sanyam Bhutani](https://www.linkedin.com/in/sanyambhutani/): **Case Study of building AI agents & LLM Finetuning from Zero to Grandmaster** 
     * Slides - Not shared by speaker
