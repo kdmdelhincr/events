@@ -13,6 +13,22 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 28-09-2024 ( Delhi NCR's Fifty First Kaggle Days Meetup @ JIMS, Rohini)
+
+### Speakers
+
+* [Dr Siddharth Dawar](https://www.linkedin.com/in/dr-siddharth-dawar-ph-d-a0078530/): **Unlocking Your AI Potential: A Career Roadmap** 
+    * [Slides](https://drive.google.com/file/d/1JYt08fLRGgE-k0t8IdxMn2qEiJaR7Qud/view?usp=sharing)
+
+* [Dr. Dhananjay Kimothi](https://www.linkedin.com/in/dhananjay-kimothi/): **MLOps - Moving from Experimentation to Production** 
+    * Slides - Not shared by speaker
+
+* [Dr Ravinder Ahuja](https//www.linkedin.com/in/ravinder-ahuja-phd-54689755/%C2%A0): **AI Agents for Data Analysis Task** 
+    * [Get all the resources (Slides, Notebooks etc)](https://drive.google.com/file/d/1lS6FZ-2um2GbRjxHtH-tMB6nlF8PJu8H/view?usp=sharing)
+
+* [Dr Lokender Tiwari](https://www.linkedin.com/in/lokender): **Generative AI meets 3D Creation** 
+    * Slides - Not shared by speaker
+  
 ## 22-06-2024 ( Delhi NCR's Fiftieth Kaggle Days Meetup @ IIIT Delhi ) [ Community's 5th Anniversary Meetup ]
 
 ### Speakers
