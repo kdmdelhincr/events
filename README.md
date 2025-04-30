@@ -13,6 +13,38 @@ Refer to the speaker guides below to prepare for your first technical talks :
 - https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d
 - https://medium.com/@nikkitagandhi/elementary-tips-that-can-help-you-give-an-effective-tech-talk-ea0080c52c45
 
+## 26-04-2025 ( Delhi NCR's Fifty Third Kaggle Days Meetup @ Masters Union, Gurugram)
+
+### Speakers
+
+* [Mayank Rakesh](https://www.linkedin.com/in/mayank-rakesh-/): **Open Weights, Open Mind: Why Open Models Still Need New Ideas** 
+    * Slides - Not shared by speaker
+
+* [Dr. Siddharth Dawar](https://www.linkedin.com/in/dr-siddharth-dawar-ph-d-a0078530/): **Language Models: The Quest for Inclusive AI n** 
+    * [Slides](https://drive.google.com/file/d/1UhQJCBNOqE-dKylFa6oaNWOLQoTnewtc/view?usp=sharing)
+
+* [Ritesh Yadav](https://www.linkedin.com/in/riteshai/): **Serverless LLM Deployment on Kubernetes with Knative** 
+    * [Slides](https://drive.google.com/file/d/1F9G9zoa5x5HQtWkSEEANV5kTe8jRhLSt/view?usp=sharing)
+
+## 08-03-2025 ( Delhi NCR's Fifty Second Kaggle Days Meetup @ JIMS, Rohini)
+
+### Speakers
+
+* [Dr. Gauri Jain](https://www.linkedin.com/in/drgaurijain/): **State-of-the-Art Data & Generative AI: Driving Innovation at StatusNeo** 
+    * Slides - Not shared by speaker
+
+* [Arshita Bhatt](https://www.linkedin.com/in/arshitabhatt/): **Shipping Data Pipeline like Software Products** 
+    * Slides - Not shared by speaker
+
+* [Kriti Doneria](https://www.linkedin.com/in/kritidoneria): **Ethics in Agentic AI** 
+    * Slides - Not shared by speaker
+
+* [Charu Bhargava](https://www.linkedin.com/in/bhargavacharu): **Scaling Data-Driven Digital Transformation** 
+    * Slides - Not shared by speaker
+
+* [Payal Pote](https://www.linkedin.com/in/payalpote/): **Data Disentanglement: Unlocking hidden insights in complex datasets** 
+    * Slides - Not shared by speaker
+            
 ## 28-09-2024 ( Delhi NCR's Fifty First Kaggle Days Meetup @ JIMS, Rohini)
 
 ### Speakers
